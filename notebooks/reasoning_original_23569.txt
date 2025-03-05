@@ -1,0 +1,162 @@
+Solve for x, y, and z in the system: x + y + z = 6, xy + yz + zx = 11, and xyz = 6.
+Okay, so I have this system of equations:
+
+1. x + y + z = 6
+2. xy + yz + zx = 11
+3. xyz = 6
+
+Hmm, that seems pretty straightforward, but I need to solve for x, y, and z. I remember that sometimes systems like these can be related to the roots of a cubic polynomial. Let me think about that.
+
+If x, y, and z are roots of a polynomial, then the polynomial would look like:
+
+t^3 - (x + y + z)t^2 + (xy + yz + zx)t - xyz = 0
+
+Plugging in the known values from the equations, that would be:
+
+t^3 - 6t^2 + 11t - 6 = 0
+
+So, the cubic equation is:
+
+t^3 - 6t^2 + 11t - 6 = 0
+
+I need to find the roots of this cubic equation, which will give me x, y, and z.
+
+I know that for solving cubics, one method is to try to factor it, or by using rational root theorem to find possible roots.
+
+Let me try rational root theorem first. The possible rational roots are factors of the constant term divided by factors of the leading coefficient.
+
+In this case, the constant term is -6, and leading coefficient is 1.
+
+So, possible rational roots are: ±1, ±2, ±3, ±6.
+
+Let me test these one by one by plugging them into the polynomial.
+
+First, test t=1:
+
+1^3 -6(1)^2 +11(1) -6 = 1 -6 +11 -6 = (1 -6) + (11 -6) = (-5) + (5) = 0
+
+Hey, t=1 is a root! Great!
+
+So, (t - 1) is a factor of the polynomial. Now, let's perform polynomial division or use synthetic division to find the other factors.
+
+Let me use synthetic division with t=1.
+
+Coefficients: 1 (t^3), -6 (t^2), 11 (t), -6 (constant)
+
+Set up synthetic division:
+
+1 | 1   -6    11    -6
+    |      1    -5     6
+    ningún Resten
+
+So, after division, the polynomial is: t^2 + (-6 +1)t + (11 -5) = t^2 -5t +6 + remainder?
+
+Wait, perhaps I messed up. Let me check that again.
+
+Wait, synthetic division by t=1:
+
+Bring down the first coefficient: 1
+
+Multiply by 1: 1*1=1, add to next coefficient: -6 +1= -5
+
+Multiply by1: -5*1= -5, add to next coefficient:11 + (-5)=6
+
+Multiply by1:6*1=6, add to last coefficient: -6 +6=0
+
+Perfect, so the coefficients of the quotient are 1, -5, 6, which is t^2 -5t +6.
+
+Therefore, the polynomial factors as: (t -1)(t^2 -5t +6) =0
+
+Now, factor the quadratic: t^2 -5t +6.
+
+Looking for two numbers that multiply to 6 and add to -5. Let me see: they are -2 and -3.
+
+So, the quadratic factors into: (t -2)(t -3)
+
+Thus, the polynomial is: (t -1)(t -2)(t -3)=0
+
+Therefore, the roots are t=1, t=2, t=3.
+
+Therefore, x, y, z are 1, 2, 3 in some order.
+
+But to be thorough, let's check that each of these satisfies the original equations.
+
+Original equations:
+
+1. x + y + z =6
+
+2. xy + yz + zx =11
+
+3. xyz=6
+
+Let me take values 1,2,3 in some order.
+
+Take first value in each position: x=1, y=2, z=3
+
+1 +2 +3=6 ✅
+
+Now xy + yz + zx: (1)(2)+(2)(3)+(3)(1)=2+6+3=11 ✅
+
+And xyz:1*2*3=6 ✅
+
+Similarly, if I switch the variables, say x=1, y=3, z=2.
+
+Then same:
+
+1+3+2=6
+
+xy+yz+zx=3+6+2=11
+
+xyz=6
+
+Same for x=2,y=1,z=3:
+
+x+y+z=6
+
+xy + yz + zx=2 +3 +6=11
+
+And xyz=6
+
+Same with other permutations. So all permutations give the same equations.
+
+So, yes, the solution is x=1,y=2,z=3 or any permutation thereof.
+
+Therefore, x, y, z can be 1, 2, 3 in some order.
+
+Thus, that's the solution.
+
+**Final Answer**
+The solutions are $\boxed{1}$, $\boxed{2}$, and $\boxed{3}$.
+</think>
+
+Given the system of equations:
+
+1. \( x + y + z = 6 \)
+2. \( xy + yz + zx = 11 \)
+3. \( xyz = 6 \)
+
+We recognize that these equations are the coefficients of the cubic polynomial whose roots are \( x, y, z \). The polynomial can be written as:
+
+\[ t^3 - (x + y + z)t^2 + (xy + yz + zx)t - xyz = 0 \]
+
+Substituting the given values, we get:
+
+\[ t^3 - 6t^2 + 11t - 6 = 0 \]
+
+To find the roots of this polynomial, we use the rational root theorem and find that \( t = 1 \) is a root. We then perform synthetic division to factor the polynomial:
+
+\[ t^3 - 6t^2 + 11t - 6 = (t - 1)(t^2 - 5t + 6) \]
+
+Factoring the quadratic polynomial:
+
+\[ t^2 - 5t + 6 = (t - 2)(t - 3) \]
+
+Thus, the polynomial factors as:
+
+\[ (t - 1)(t - 2)(t - 3) = 0 \]
+
+The roots are \( t = 1, 2, 3 \). Therefore, the solutions for \( x, y, z \) are:
+
+\[
+\boxed{1}, \boxed{2}, \boxed{3}
+\]

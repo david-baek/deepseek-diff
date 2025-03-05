@@ -1,0 +1,86 @@
+If a fair coin is tossed 3 times, what is the probability of obtaining exactly 2 heads?
+To determine the probability of obtaining exactly 2 heads when a fair coin is tossed 3 times, I will follow these steps:
+
+1. **Understand the Problem**: We are tossing a fair coin 3 times, and we need to find the probability of getting exactly 2 heads in those tosses.
+
+2. **Total Number of Possible Outcomes**: Since each toss can result in either a head (H) or a tail (T), and there are 3 tosses, the total number of possible outcomes is \(2^3 = 8\).
+
+3. **List All Possible Outcomes**: To ensure we cover all possibilities, let's list them:
+   - HHH
+   - HHT
+   - HTH
+   - HTT
+   - THH
+   - THT
+   - TTH
+   - TTT
+
+4. **Identify Desired Outcomes**: We need the outcomes with exactly 2 heads. Looking at the list:
+   - HHT
+   - HTH
+   - THH
+
+   There are 3 such outcomes.
+
+5. **Calculate Probability**: The probability of an event is the number of favorable outcomes divided by the total number of possible outcomes. So,
+   \[
+   \text{Probability} = \frac{\text{Number of Desired Outcomes}}{\text{Total Number of Possible Outcomes}} = \frac{3}{8}
+   \]
+
+6. **Verification Using Combinatorial Approach**: As an alternative method, we can use combinations to calculate the number of ways exactly 2 heads can appear in 3 tosses.
+   
+   - The formula for combinations is \(C(n, k) = \frac{n!}{k!(n - k)!}\), where \(n\) is the total number of trials and \(k\) is the number of successful trials.
+   
+   - Plugging in the values for \(n = 3\) and \(k = 2\):
+     \[
+     C(3, 2) = \frac{3!}{2!(3 - 2)!} = \frac{6}{2 \times 1} = 3
+     \]
+   
+   - Since each toss is independent and the coin is fair, each of these 3 outcomes has the same probability, which is \(\frac{1}{8}\).
+   
+   - Therefore, the total probability for 2 heads is \(3 \times \frac{1}{8} = \frac{3}{8}\).
+
+7. **Final Answer**: Both methods lead us to the same conclusion. Thus, the probability of obtaining exactly 2 heads when a fair coin is tossed 3 times is \(\frac{3}{8}\).
+
+**Final Answer**
+The probability of obtaining exactly 2 heads when a fair coin is tossed 3 times is \boxed{\dfrac{3}{8}}.
+</think>
+
+To determine the probability of obtaining exactly 2 heads when a fair coin is tossed 3 times, we follow these steps:
+
+1. **Understand the Problem**: We are tossing a fair coin 3 times, and we need to find the probability of getting exactly 2 heads in those tosses.
+
+2. **Total Number of Possible Outcomes**: Since each toss can result in either a head (H) or a tail (T), and there are 3 tosses, the total number of possible outcomes is \(2^3 = 8\).
+
+3. **List All Possible Outcomes**: The list of all possible outcomes when a fair coin is tossed 3 times is:
+   - HHH
+   - HHT
+   - HTH
+   - HTT
+   - THH
+   - THT
+   - TTH
+   - TTT
+
+4. **Identify Desired Outcomes**: We need the outcomes with exactly 2 heads. These are:
+   - HHT
+   - HTH
+   - THH
+
+   There are 3 such outcomes.
+
+5. **Calculate Probability**: The probability of an event is the number of favorable outcomes divided by the total number of possible outcomes. So,
+   \[
+   \text{Probability} = \frac{\text{Number of Desired Outcomes}}{\text{Total Number of Possible Outcomes}} = \frac{3}{8}
+   \]
+
+6. **Verification Using Combinatorial Approach**: Using combinations, the number of ways exactly 2 heads can appear in 3 tosses is:
+   \[
+   C(3, 2) = \frac{3!}{2!(3 - 2)!} = \frac{6}{2 \times 1} = 3
+   \]
+   Since each toss is independent and fair, each of these 3 outcomes has a probability of \(\frac{1}{8}\). Therefore, the total probability for 2 heads is:
+   \[
+   3 \times \frac{1}{8} = \frac{3}{8}
+   \]
+
+Thus, the probability of obtaining exactly 2 heads when a fair coin is tossed 3 times is \boxed{\dfrac{3}{8}}.

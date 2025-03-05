@@ -1,0 +1,123 @@
+Solve the system: x + y = 5 and x^2 + y^2 = 13. Determine the possible values for x and y, and explain your reasoning.
+To solve the system where \( x + y = 5 \) and \( x^2 + y^2 = 13 \), the main steps involve manipulating these equations to find the values of \( x \) and \( y \).
+
+First, express one variable in terms of the other using the first equation:
+
+\( x = 5 - y \).
+
+Substituting this into the second equation:
+
+\( (5 - y)^2 + y^2 = 13 \).
+
+Expanding:
+
+\( 25 - 10y + y^2 + y^2 = 13 \).
+
+Combine like terms:
+
+\( 2y^2 - 10y + 25 = 13 \).
+
+Simplify:
+
+\( 2y^2 - 10y + 12 = 0 \).
+
+Divide both sides by 2:
+
+\( y^2 - 5y + 6 = 0 \).
+
+Factor:
+
+\( (y - 2)(y - 3) = 0 \).
+
+Solutions are \( y = 2 \) or \( y = 3 \).
+
+Substitute back into \( x = 5 - y \):
+
+If \( y = 2 \), then \( x = 3 \).
+
+If \( y = 3 \), then \( x = 2 \).
+
+Thus, the possible solutions are \( (x, y) = (3, 2) \) or \( (2, 3) \).
+
+Confirming these solutions satisfy both equations:
+
+For \( x = 3 \) and \( y = 2 \):
+
+\( 3 + 2 = 5 \) and \( 9 + 4 = 13 \), which is correct.
+
+For \( x = 2 \) and \( y = 3 \):
+
+\( 2 + 3 = 5 \) and \( 4 + 9 = 13 \), which is also correct.
+
+Therefore, both solutions are valid.
+</think>
+
+To solve the system of equations:
+
+\[
+\begin{cases}
+x + y = 5 \\
+x^2 + y^2 = 13
+\end{cases}
+\]
+
+**Step 1:** Express \( y \) in terms of \( x \) using the first equation.
+
+\[
+y = 5 - x
+\]
+
+**Step 2:** Substitute \( y = 5 - x \) into the second equation.
+
+\[
+x^2 + (5 - x)^2 = 13
+\]
+
+Expand the equation:
+
+\[
+x^2 + 25 - 10x + x^2 = 13
+\]
+
+Combine like terms:
+
+\[
+2x^2 - 10x + 25 = 13
+\]
+
+Simplify:
+
+\[
+2x^2 - 10x + 12 = 0
+\]
+
+Divide the entire equation by 2:
+
+\[
+x^2 - 5x + 6 = 0
+\]
+
+**Step 3:** Factor the quadratic equation.
+
+\[
+(x - 2)(x - 3) = 0
+\]
+
+So, the solutions are:
+
+\[
+x = 2 \quad \text{or} \quad x = 3
+\]
+
+**Step 4:** Find the corresponding values of \( y \).
+
+- If \( x = 2 \), then \( y = 5 - 2 = 3 \).
+- If \( x = 3 \), then \( y = 5 - 3 = 2 \).
+
+**Final Solution:**
+
+\[
+(x, y) = (2, 3) \quad \text{or} \quad (3, 2)
+\]
+
+Both solutions satisfy the original system of equations.

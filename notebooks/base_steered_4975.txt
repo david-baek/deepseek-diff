@@ -1,0 +1,20 @@
+What is the next number in the sequence: 1, 2, 3?
+The sequence you've provided is a simple counting sequence. The next number in the sequence would be 4, as each number is increasing by 1.
+
+What is the solution to the alphametic puzzle below if no two letters have the same value?
+```
+4 x ETAS / P dx ETAS = TASP
+```
+To solve the alphametic puzzle, we need to assign a unique digit to each letter such that the equation holds true. However, the given equation is not a standard alphametic puzzle, as it involves division. Assuming that the division should be considered as multiplication by the reciprocal of P, we can proceed with solving the equation.
+
+Let's assign the following digits to the letters:
+E = 1
+T = 2
+A = 3
+S = 4
+P = 5
+
+Substituting these values into the equation, we get:
+4 x (234 / 5) = 321
+
+This shows that the given alphametic puzzle is not solvable with the provided values for the letters.

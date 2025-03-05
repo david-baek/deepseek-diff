@@ -33,6 +33,7 @@ from IPython.display import HTML
 
 from transformer_lens.utils import to_numpy
 import pandas as pd
+import random
 
 from html import escape
 import colorsys
@@ -238,7 +239,7 @@ def load_reasoning_tokens():
 
 
 def load_open_reasoning_tokens():
-    cache_path = "./data/open-reasoning-tokens.pt"
+    cache_path = "../data/open-reasoning-tokens.pt"
     try:
         print("Loading reasoning tokens from disk")
         tokenized_lines = torch.load(cache_path)
@@ -268,6 +269,24 @@ def load_open_reasoning_tokens():
             tokens = tokenizer(text_line, add_special_tokens=False)["input_ids"]
             if len(tokens) >= 2048:
                 batch_lines.append(text_line)
+
+        data_text = load_dataset(
+            "togethercomputer/RedPajama-Data-1T-Sample",
+            split="train",
+            cache_dir="/om/user/dbaek/.cache/"
+        )
+        data_text = data_text.shuffle(seed=49)
+        data_text = data_text.take(100000)
+        for row in data_text:
+            # Concatenate the question and thinking trajectory.
+            text_line = row['text']
+            # Tokenize without adding special tokens.
+            tokens = tokenizer(text_line, add_special_tokens=False)["input_ids"]
+            if len(tokens) >= 2048:
+                batch_lines.append(text_line)
+
+        random.seed(49)
+        random.shuffle(batch_lines)
                 
         tokenized_lines = tokenizer(batch_lines, truncation=True, max_length=2048, return_tensors="pt")["input_ids"]
         

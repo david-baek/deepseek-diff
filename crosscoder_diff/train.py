@@ -24,7 +24,7 @@ else:
     
 # %%
 
-save_name = "qwen-1.5b"
+save_name = "qwen-14b"
 
 name_to_model_map = {
     "qwen-1.5b": ["Qwen/Qwen2.5-Math-1.5B", "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B"],
@@ -66,13 +66,13 @@ sys.stdout.flush()
 
 # %%
 import wandb
-#wandb.login(key="53d2399bd1fe394b1c3fcbfcbea36897145e459f")
+
 default_cfg = {
     "seed": 49,
     "batch_size": 1024,
     "buffer_mult": 128,
     "lr": 5e-5,
-    "num_tokens": 200_000_000,
+    "num_tokens": 400_000_000,
     "l1_coeff": 2,
     "beta1": 0.9,
     "beta2": 0.999,

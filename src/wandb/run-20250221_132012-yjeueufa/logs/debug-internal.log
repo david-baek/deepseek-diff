@@ -1,0 +1,7 @@
+{"time":"2025-02-21T13:20:12.826152592-05:00","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"/weka/scratch/weka/tegmark/dbaek/deepseek-diff/src/wandb/run-20250221_132012-yjeueufa/logs/debug-core.log"}
+{"time":"2025-02-21T13:20:13.246559033-05:00","level":"INFO","msg":"created new stream","id":"yjeueufa"}
+{"time":"2025-02-21T13:20:13.246617333-05:00","level":"INFO","msg":"stream: started","id":"yjeueufa"}
+{"time":"2025-02-21T13:20:13.246627253-05:00","level":"INFO","msg":"handler: started","stream_id":"yjeueufa"}
+{"time":"2025-02-21T13:20:13.246658593-05:00","level":"INFO","msg":"sender: started","stream_id":"yjeueufa"}
+{"time":"2025-02-21T13:20:13.246606343-05:00","level":"INFO","msg":"writer: Do: started","stream_id":"yjeueufa"}
+{"time":"2025-02-21T13:20:13.398001723-05:00","level":"INFO","msg":"Starting system monitor"}

@@ -1,0 +1,27 @@
+Solve the system: x + y = 5 and x^2 + y^2 = 13. Determine the possible values for x and y, and explain your reasoning.
+To solve the system, we can use the following steps:
+
+1. Rewrite the second equation as #(x+y)^2=x^2+2xy+y^2#, replacing #(x+y)# with #5#, we get:
+   #(x+y)^2=25#
+   #x^2+2xy+y^2=25#
+
+2. Subtract the first equation from the second equation:
+   #(x^2+2xy+y^2)-(x^2+y^2)=25-13#
+   #2xy=12#
+   #xy=6#
+
+3. Substitute #y=5-x# from the first equation into the equation #xy=6#:
+   #(5-x)x=6#
+   #5x-x^2=6#
+   #x^2-5x+6=0#
+
+4. Solve the quadratic equation #x^2-5x+6=0# using the quadratic formula:
+   #x=(5±sqrt(5^2-4(1)(6)))/(2(1))#
+   #x=(5±1)/2#
+   #x=3 or x=2#
+
+5. Use the equation #x+y=5# to find the corresponding values of y:
+   If #x=3#, then #y=5-3=2#.
+   If #x=2#, then #y=5-2=3#.
+
+Therefore, the possible solutions are #(x, y) = (3, 2)# and #(x, y) = (2, 3)#.

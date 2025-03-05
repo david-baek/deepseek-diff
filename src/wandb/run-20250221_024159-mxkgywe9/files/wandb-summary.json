@@ -1,0 +1,1 @@
+{"_timestamp":1.7401320649492536e+09,"explained_variance_A":0.8984375,"_step":390601,"l1_loss":114.5,"l2_loss":220.7139129638672,"explained_variance":0.8965786695480347,"loss":449.71392822265625,"l1_coeff":2,"explained_variance_B":0.89453125,"lr":1.5359999999997598e-08,"l0_loss":863.9716796875,"_wandb":{"runtime":8345},"_runtime":8345.773560972}

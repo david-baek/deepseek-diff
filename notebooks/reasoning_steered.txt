@@ -1,0 +1,80 @@
+Solve the system: x + y = 5 and x^2 + y^2 = 13. Determine the possible values for x and y, and explain your reasoning.
+Start with the given equations:
+1. \( x + y = 5 \)
+2. \( x^2 + y^2 = 13 \)
+
+First, square the first equation to relate \( x \) and \( y \):
+\( (x + y)^2 = x^2 + 2xy + y^2 = 25 \)
+
+Subtract the second equation from this result to find \( xy \):
+\( 25 - 13 = 12 = 2xy \)
+So, \( xy = 6 \)
+
+Now, set up the quadratic equation for \( x \) (and \( y \)) with known sum and product:
+\( t^2 - 5t + 6 = 0 \)
+
+Solve for \( t \):
+\( (t - 2)(t - 3) = 0 \)
+Thus, \( t = 2 \) or \( t = 3 \)
+
+Since both values satisfy the original equations, the solutions are \( x = 2, y = 3 \) and \( x = 3, y = 2 \).
+</think>
+
+To solve the system of equations:
+
+\[
+\begin{cases}
+x + y = 5 \\
+x^2 + y^2 = 13
+\end{cases}
+\]
+
+**Step 1: Compute the square of the first equation.**
+
+\[
+(x + y)^2 = x^2 + 2xy + y^2 = 25
+\]
+
+**Step 2: Substitute the second equation into the above.**
+
+\[
+25 - 13 = 2xy
+\]
+
+\[
+12 = 2xy \quad \Rightarrow \quad xy = 6
+\]
+
+**Step 3: Form a quadratic equation using the known sum and product.**
+
+\[
+t^2 - (x + y)t + xy = 0
+\]
+
+\[
+t^2 - 5t + 6 = 0
+\]
+
+**Step 4: Factor the quadratic equation.**
+
+\[
+(t - 2)(t - 3) = 0
+\]
+
+**Solutions for \( t \):**
+
+\[
+t = 2 \quad \text{or} \quad t = 3
+\]
+
+**Therefore, the pairs \((x, y)\) that satisfy the original equations are:**
+
+\[
+(x, y) = (2, 3) \quad \text{and} \quad (3, 2)
+\]
+
+**Final Answer:**
+
+\[
+\boxed{(2, 3) \text{ and } (3, 2)}
+\]

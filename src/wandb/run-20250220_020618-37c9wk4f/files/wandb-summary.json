@@ -1,0 +1,1 @@
+{"l1_coeff":2,"lr":5e-05,"_timestamp":1.7400363794263794e+09,"_runtime":1204.828569144,"loss":713.4349365234375,"explained_variance_B":0.91015625,"explained_variance":0.9128775000572205,"l1_loss":175,"_wandb":{"runtime":1204},"l0_loss":709.9921875,"_step":29901,"l2_loss":363.4349060058594,"explained_variance_A":0.9140625}

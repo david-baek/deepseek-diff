@@ -1,0 +1,33 @@
+Solve for x, y, and z in the system: x + y + z = 6, xy + yz + zx = 11, and xyz = 6.
+To solve the system of equations:
+\[ x + y + z = 6 \]
+\[ xy + yz + zx = 11 \]
+\[ xyz = 6 \]
+we recognize that \(x, y, z\) are the roots of the polynomial:
+\[ t^3 - (x+y+z)t^2 + (xy+yz+zx)t - xyz = 0 \]
+Substituting the given values, we get:
+\[ t^3 - 6t^2 + 11t - 6 = 0 \]
+
+We can solve this cubic equation by trial and error, or by using computational methods to find the roots. The roots of this polynomial are the values of \(x, y, z\). Let's solve it using Python.
+```python
+import numpy as np
+
+# Coefficients of the polynomial t^3 - 6t^2 + 11t - 6 = 0
+coefficients = [1, -6, 11, -6]
+
+# Find the roots of the polynomial
+roots = np.roots(coefficients)
+print(roots)
+```
+```output
+[3. 2. 1.]
+```
+The roots of the polynomial \( t^3 - 6t^2 + 11t - 6 = 0 \) are \(3, 2,\) and \(1\). Therefore, the values of \(x, y, z\) are permutations of these roots.
+
+Hence, the solutions for the system of equations are:
+\[ (x, y, z) = (3, 2, 1), (3, 1, 2), (2, 3, 1), (2, 1, 3), (1, 3, 2), (1, 2, 3) \]
+
+The final answer is:
+\[
+\boxed{(3, 2, 1), (3, 1, 2), (2, 3, 1), (2, 1, 3), (1, 3, 2), (1, 2, 3)}
+\]

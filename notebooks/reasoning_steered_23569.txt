@@ -1,0 +1,76 @@
+Solve for x, y, and z in the system: x + y + z = 6, xy + yz + zx = 11, and xyz = 6.
+To solve the system, let's consider the equations step by step.
+
+First equation:
+x + y + z = 6
+
+Second equation:
+xy + yz + zx = 11
+
+Third equation:
+xyz = 6
+
+Notice that these equations resemble Vieta's formulas for a cubic equation. If we let x, y, z be the roots of the cubic equation t^3 - (x + y + z)t^2 + (xy + yz + zx)t - xyz = 0.
+
+Substituting the known values:
+
+t^3 - 6t^2 + 11t - 6 = 0
+
+Now, let's factor this cubic equation.
+
+We can attempt rational roots. The possible rational roots factors of the constant term (6) over factors of the leading coefficient (1) are ±1, ±2, ±3, ±6.
+
+Testing t = 1:
+1 - 6 + 11 - 6 = 0. Yes, t = 1 is a root.
+
+So, we can factor out (t - 1):
+
+Using polynomial division or synthetic division:
+
+Dividing t^3 - 6t^2 + 11t - 6 by t - 1:
+
+Coefficients: 1 | -6 | 11 | -6
+Bring down the 1.
+Multiply by 1: 1
+Add to next coefficient: -6 + 1 = -5
+Multiply by 1: -5
+Add to next coefficient: 11 + (-5) = 6
+Multiply by 1:6
+Add to next coefficient: -6 +6=0
+
+So, the cubic factors as (t - 1)(t^2 -5t +6)=0
+
+Now factor the quadratic:
+
+t^2 -5t +6 = (t -2)(t -3)
+
+So, the roots are t=1, t=2, t=3.
+
+Thus, the solutions in x, y, z are 1, 2, 3.
+
+Therefore, x, y, z are 1, 2, 3 in some order. However, since the equations are symmetric in x, y, z, any permutation is a solution.
+
+**Final Answer**
+The solutions are \boxed{1}, \boxed{2}, and \boxed{3}.
+</think>
+
+Given the system of equations:
+\[ x + y + z = 6 \]
+\[ xy + yz + zx = 11 \]
+\[ xyz = 6 \]
+
+We recognize these as Vieta's formulas for a cubic equation with roots \(x, y, z\). The cubic equation is:
+\[ t^3 - 6t^2 + 11t - 6 = 0 \]
+
+Using the Rational Root Theorem, we test possible roots and find that \(t = 1\) is a root. Factoring out \((t - 1)\) from the cubic equation gives:
+\[ (t - 1)(t^2 - 5t + 6) = 0 \]
+
+Factoring the quadratic equation:
+\[ t^2 - 5t + 6 = (t - 2)(t - 3) \]
+
+Thus, the roots are \(t = 1\), \(t = 2\), and \(t = 3\). These correspond to the solutions \(x, y, z\).
+
+Therefore, the solutions are:
+\[
+\boxed{1}, \boxed{2}, \boxed{3}
+\]

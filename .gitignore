@@ -2,8 +2,9 @@ wandb/*
 __pycache__/*
 checkpoints/*
 data/*
+*/results/*
 .env
-
+abstractive/*
 
 
 slurm*.out

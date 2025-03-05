@@ -1,0 +1,1286 @@
+100%|██████████| 4/4 [00:00<00:00, 10.62it/s]2it/s]  
+{'loss': 1094.9869384765625, 'l2_loss': 1094.9869384765625, 'l1_loss': 103.0, 'l0_loss': 7634.6279296875, 'l1_coeff': 0.0, 'lr': 5e-05, 'explained_variance': 0.4786715805530548, 'explained_variance_A': 0.46875, 'explained_variance_B': 0.486328125}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.58it/s]71it/s] 
+{'loss': 236.00244140625, 'l2_loss': 210.87744140625, 'l1_loss': 1224.0, 'l0_loss': 31941.2890625, 'l1_coeff': 0.020480052428934217, 'lr': 5e-05, 'explained_variance': 0.9018039703369141, 'explained_variance_A': 0.90234375, 'explained_variance_B': 0.90234375}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.11it/s]92it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.69it/s]85it/s]  
+{'loss': 163.87451171875, 'l2_loss': 116.37451171875, 'l1_loss': 1160.0, 'l0_loss': 20656.08984375, 'l1_coeff': 0.04096010485786843, 'lr': 5e-05, 'explained_variance': 0.9452515840530396, 'explained_variance_A': 0.9453125, 'explained_variance_B': 0.9453125}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.58it/s]95it/s]  
+{'loss': 156.66397094726562, 'l2_loss': 94.9139633178711, 'l1_loss': 1004.0, 'l0_loss': 13600.328125, 'l1_coeff': 0.06144015728680265, 'lr': 5e-05, 'explained_variance': 0.956074059009552, 'explained_variance_A': 0.95703125, 'explained_variance_B': 0.95703125}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.69it/s]14it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.68it/s]13it/s]  
+{'loss': 146.523193359375, 'l2_loss': 76.523193359375, 'l1_loss': 852.0, 'l0_loss': 12034.16015625, 'l1_coeff': 0.08192020971573687, 'lr': 5e-05, 'explained_variance': 0.9644817113876343, 'explained_variance_A': 0.96484375, 'explained_variance_B': 0.96484375}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.61it/s]08it/s]  
+{'loss': 152.53533935546875, 'l2_loss': 72.03534698486328, 'l1_loss': 784.0, 'l0_loss': 11457.0341796875, 'l1_coeff': 0.10240026214467109, 'lr': 5e-05, 'explained_variance': 0.9657942652702332, 'explained_variance_A': 0.96484375, 'explained_variance_B': 0.96484375}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.62it/s]08it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.62it/s]11it/s]  
+{'loss': 155.59153747558594, 'l2_loss': 68.59153747558594, 'l1_loss': 708.0, 'l0_loss': 10435.9580078125, 'l1_coeff': 0.1228803145736053, 'lr': 5e-05, 'explained_variance': 0.9674022197723389, 'explained_variance_A': 0.96875, 'explained_variance_B': 0.96875}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.65it/s]99it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.67it/s]05it/s]  
+{'loss': 154.71990966796875, 'l2_loss': 64.21990203857422, 'l1_loss': 632.0, 'l0_loss': 9297.427734375, 'l1_coeff': 0.1433603670025395, 'lr': 5e-05, 'explained_variance': 0.9690173268318176, 'explained_variance_A': 0.96875, 'explained_variance_B': 0.96875}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.69it/s]09it/s]  
+{'loss': 158.18850708007812, 'l2_loss': 64.68851470947266, 'l1_loss': 572.0, 'l0_loss': 8436.798828125, 'l1_coeff': 0.16384041943147373, 'lr': 5e-05, 'explained_variance': 0.9685380458831787, 'explained_variance_A': 0.96875, 'explained_variance_B': 0.96875}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.42it/s]12it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.60it/s]07it/s]  
+{'loss': 157.07275390625, 'l2_loss': 61.07275390625, 'l1_loss': 520.0, 'l0_loss': 7541.54296875, 'l1_coeff': 0.18432047186040795, 'lr': 5e-05, 'explained_variance': 0.9702216386795044, 'explained_variance_A': 0.96875, 'explained_variance_B': 0.96875}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.57it/s].06it/s] 
+{'loss': 173.35678100585938, 'l2_loss': 68.8567886352539, 'l1_loss': 510.0, 'l0_loss': 7143.654296875, 'l1_coeff': 0.20480052428934217, 'lr': 5e-05, 'explained_variance': 0.9669674634933472, 'explained_variance_A': 0.96875, 'explained_variance_B': 0.96484375}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.67it/s].13it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.60it/s].05it/s]  
+{'loss': 157.96519470214844, 'l2_loss': 59.96519088745117, 'l1_loss': 434.0, 'l0_loss': 5970.5224609375, 'l1_coeff': 0.2252805767182764, 'lr': 5e-05, 'explained_variance': 0.9710764288902283, 'explained_variance_A': 0.97265625, 'explained_variance_B': 0.97265625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.64it/s].12it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.58it/s].19it/s]  
+{'loss': 170.4995880126953, 'l2_loss': 62.49958801269531, 'l1_loss': 440.0, 'l0_loss': 5842.82421875, 'l1_coeff': 0.2457606291472106, 'lr': 5e-05, 'explained_variance': 0.9699722528457642, 'explained_variance_A': 0.96875, 'explained_variance_B': 0.96875}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.53it/s].03it/s]  
+{'loss': 174.34603881835938, 'l2_loss': 65.84603881835938, 'l1_loss': 408.0, 'l0_loss': 5329.0830078125, 'l1_coeff': 0.26624068157614483, 'lr': 5e-05, 'explained_variance': 0.9684375524520874, 'explained_variance_A': 0.96875, 'explained_variance_B': 0.96875}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.59it/s].17it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.60it/s].11it/s]  
+{'loss': 186.9002685546875, 'l2_loss': 68.9002685546875, 'l1_loss': 412.0, 'l0_loss': 5152.748046875, 'l1_coeff': 0.286720734005079, 'lr': 5e-05, 'explained_variance': 0.9668980240821838, 'explained_variance_A': 0.96875, 'explained_variance_B': 0.96484375}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.66it/s].12it/s]  
+{'loss': 184.40892028808594, 'l2_loss': 68.40892028808594, 'l1_loss': 378.0, 'l0_loss': 4645.5986328125, 'l1_coeff': 0.3072007864340133, 'lr': 5e-05, 'explained_variance': 0.9671228528022766, 'explained_variance_A': 0.96875, 'explained_variance_B': 0.96875}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.63it/s].23it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.52it/s].01it/s]  
+{'loss': 178.37188720703125, 'l2_loss': 64.37189483642578, 'l1_loss': 348.0, 'l0_loss': 4125.505859375, 'l1_coeff': 0.32768083886294747, 'lr': 5e-05, 'explained_variance': 0.9696727395057678, 'explained_variance_A': 0.96875, 'explained_variance_B': 0.96875}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.64it/s].13it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.69it/s].18it/s]  
+{'loss': 189.96527099609375, 'l2_loss': 69.46527099609375, 'l1_loss': 346.0, 'l0_loss': 4036.837890625, 'l1_coeff': 0.3481608912918817, 'lr': 5e-05, 'explained_variance': 0.9668046832084656, 'explained_variance_A': 0.96484375, 'explained_variance_B': 0.96484375}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.67it/s].19it/s]  
+{'loss': 190.92449951171875, 'l2_loss': 69.92449951171875, 'l1_loss': 328.0, 'l0_loss': 3777.1494140625, 'l1_coeff': 0.3686409437208159, 'lr': 5e-05, 'explained_variance': 0.9663218259811401, 'explained_variance_A': 0.96484375, 'explained_variance_B': 0.96484375}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.09it/s].18it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.63it/s].11it/s]  
+{'loss': 185.7118682861328, 'l2_loss': 68.21186828613281, 'l1_loss': 302.0, 'l0_loss': 3423.69140625, 'l1_coeff': 0.38912099614975015, 'lr': 5e-05, 'explained_variance': 0.9671151638031006, 'explained_variance_A': 0.96875, 'explained_variance_B': 0.96875}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.58it/s].04it/s]  
+{'loss': 196.55372619628906, 'l2_loss': 73.05372619628906, 'l1_loss': 302.0, 'l0_loss': 3328.734375, 'l1_coeff': 0.40960104857868435, 'lr': 5e-05, 'explained_variance': 0.9652692079544067, 'explained_variance_A': 0.96484375, 'explained_variance_B': 0.96484375}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.63it/s].16it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.56it/s].92it/s]  
+{'loss': 196.92515563964844, 'l2_loss': 72.42515563964844, 'l1_loss': 290.0, 'l0_loss': 3170.5302734375, 'l1_coeff': 0.43008110100761854, 'lr': 5e-05, 'explained_variance': 0.9652292728424072, 'explained_variance_A': 0.96484375, 'explained_variance_B': 0.96484375}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.58it/s].13it/s]  
+{'loss': 214.81600952148438, 'l2_loss': 80.8160171508789, 'l1_loss': 298.0, 'l0_loss': 3178.1259765625, 'l1_coeff': 0.4505611534365528, 'lr': 5e-05, 'explained_variance': 0.9610831141471863, 'explained_variance_A': 0.9609375, 'explained_variance_B': 0.9609375}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.53it/s].18it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.42it/s].09it/s]  
+{'loss': 222.5597381591797, 'l2_loss': 83.55973815917969, 'l1_loss': 296.0, 'l0_loss': 3128.9638671875, 'l1_coeff': 0.471041205865487, 'lr': 5e-05, 'explained_variance': 0.9593510627746582, 'explained_variance_A': 0.9609375, 'explained_variance_B': 0.9609375}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.14it/s].89it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.40it/s]27.43it/s]
+{'loss': 225.17898559570312, 'l2_loss': 83.17898559570312, 'l1_loss': 288.0, 'l0_loss': 3006.1474609375, 'l1_coeff': 0.4915212582944212, 'lr': 5e-05, 'explained_variance': 0.9587022066116333, 'explained_variance_A': 0.95703125, 'explained_variance_B': 0.95703125}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.58it/s].33it/s]  
+{'loss': 213.3810272216797, 'l2_loss': 80.38102722167969, 'l1_loss': 260.0, 'l0_loss': 2687.50390625, 'l1_coeff': 0.5120013107233554, 'lr': 5e-05, 'explained_variance': 0.9605600833892822, 'explained_variance_A': 0.9609375, 'explained_variance_B': 0.9609375}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.42it/s].09it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.59it/s].14it/s]  
+{'loss': 226.9496307373047, 'l2_loss': 85.94963073730469, 'l1_loss': 264.0, 'l0_loss': 2692.41796875, 'l1_coeff': 0.5324813631522897, 'lr': 5e-05, 'explained_variance': 0.9579665660858154, 'explained_variance_A': 0.95703125, 'explained_variance_B': 0.95703125}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.55it/s].76it/s]  
+{'loss': 235.20391845703125, 'l2_loss': 89.20392608642578, 'l1_loss': 264.0, 'l0_loss': 2644.8154296875, 'l1_coeff': 0.5529614155812239, 'lr': 5e-05, 'explained_variance': 0.9564750790596008, 'explained_variance_A': 0.95703125, 'explained_variance_B': 0.95703125}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.59it/s].10it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.56it/s].22it/s]  
+{'loss': 225.592041015625, 'l2_loss': 86.592041015625, 'l1_loss': 243.0, 'l0_loss': 2402.021484375, 'l1_coeff': 0.573441468010158, 'lr': 5e-05, 'explained_variance': 0.9581587314605713, 'explained_variance_A': 0.95703125, 'explained_variance_B': 0.95703125}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.54it/s].15it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.14it/s].17it/s]  
+{'loss': 233.84683227539062, 'l2_loss': 87.8468246459961, 'l1_loss': 245.0, 'l0_loss': 2352.880859375, 'l1_coeff': 0.5939215204390923, 'lr': 5e-05, 'explained_variance': 0.9580918550491333, 'explained_variance_A': 0.95703125, 'explained_variance_B': 0.95703125}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.59it/s].00it/s]  
+{'loss': 233.32479858398438, 'l2_loss': 89.32479858398438, 'l1_loss': 234.0, 'l0_loss': 2244.0830078125, 'l1_coeff': 0.6144015728680265, 'lr': 5e-05, 'explained_variance': 0.9572570323944092, 'explained_variance_A': 0.95703125, 'explained_variance_B': 0.95703125}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.57it/s].18it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.56it/s].17it/s]  
+{'loss': 230.87002563476562, 'l2_loss': 88.87002563476562, 'l1_loss': 224.0, 'l0_loss': 2145.7880859375, 'l1_coeff': 0.6348816252969607, 'lr': 5e-05, 'explained_variance': 0.9571701288223267, 'explained_variance_A': 0.95703125, 'explained_variance_B': 0.95703125}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.59it/s].11it/s]  
+{'loss': 256.18902587890625, 'l2_loss': 99.18901062011719, 'l1_loss': 239.0, 'l0_loss': 2261.0283203125, 'l1_coeff': 0.6553616777258949, 'lr': 5e-05, 'explained_variance': 0.9511934518814087, 'explained_variance_A': 0.953125, 'explained_variance_B': 0.94921875}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.59it/s].23it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.49it/s].20it/s]  
+{'loss': 245.32476806640625, 'l2_loss': 95.32477569580078, 'l1_loss': 222.0, 'l0_loss': 2061.6142578125, 'l1_coeff': 0.6758417301548292, 'lr': 5e-05, 'explained_variance': 0.9544128179550171, 'explained_variance_A': 0.953125, 'explained_variance_B': 0.953125}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.53it/s].17it/s]  
+{'loss': 257.9713439941406, 'l2_loss': 101.97135162353516, 'l1_loss': 224.0, 'l0_loss': 2073.4072265625, 'l1_coeff': 0.6963217825837634, 'lr': 5e-05, 'explained_variance': 0.9509018659591675, 'explained_variance_A': 0.94921875, 'explained_variance_B': 0.94921875}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.57it/s].19it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.58it/s].10it/s]  
+{'loss': 257.27886962890625, 'l2_loss': 100.27888488769531, 'l1_loss': 219.0, 'l0_loss': 2011.48828125, 'l1_coeff': 0.7168018350126976, 'lr': 5e-05, 'explained_variance': 0.9514518976211548, 'explained_variance_A': 0.953125, 'explained_variance_B': 0.94921875}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.59it/s].19it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.51it/s].19it/s]  
+{'loss': 256.2755126953125, 'l2_loss': 100.2755126953125, 'l1_loss': 211.0, 'l0_loss': 1930.310546875, 'l1_coeff': 0.7372818874416318, 'lr': 5e-05, 'explained_variance': 0.9509114623069763, 'explained_variance_A': 0.94921875, 'explained_variance_B': 0.94921875}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.06it/s].12it/s]  
+{'loss': 274.57830810546875, 'l2_loss': 109.57832336425781, 'l1_loss': 218.0, 'l0_loss': 1995.248046875, 'l1_coeff': 0.7577619398705661, 'lr': 5e-05, 'explained_variance': 0.945844829082489, 'explained_variance_A': 0.9453125, 'explained_variance_B': 0.9453125}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.62it/s].97it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.59it/s].19it/s]  
+{'loss': 261.7371520996094, 'l2_loss': 103.73715209960938, 'l1_loss': 203.0, 'l0_loss': 1817.2783203125, 'l1_coeff': 0.7782419922995003, 'lr': 5e-05, 'explained_variance': 0.9500800371170044, 'explained_variance_A': 0.94921875, 'explained_variance_B': 0.94921875}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.04it/s].17it/s]  
+{'loss': 268.13330078125, 'l2_loss': 109.13328552246094, 'l1_loss': 199.0, 'l0_loss': 1807.2236328125, 'l1_coeff': 0.7987220447284344, 'lr': 5e-05, 'explained_variance': 0.9458215832710266, 'explained_variance_A': 0.9453125, 'explained_variance_B': 0.9453125}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.34it/s].05it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.60it/s].06it/s]  
+{'loss': 261.26519775390625, 'l2_loss': 105.26518249511719, 'l1_loss': 191.0, 'l0_loss': 1713.4375, 'l1_coeff': 0.8192020971573687, 'lr': 5e-05, 'explained_variance': 0.9484081864356995, 'explained_variance_A': 0.94921875, 'explained_variance_B': 0.94921875}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.61it/s].22it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.59it/s].19it/s]  
+{'loss': 258.4931335449219, 'l2_loss': 103.4931411743164, 'l1_loss': 185.0, 'l0_loss': 1628.6181640625, 'l1_coeff': 0.8396821495863029, 'lr': 5e-05, 'explained_variance': 0.9508973360061646, 'explained_variance_A': 0.94921875, 'explained_variance_B': 0.94921875}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.59it/s].16it/s]  
+{'loss': 277.72650146484375, 'l2_loss': 112.72650909423828, 'l1_loss': 192.0, 'l0_loss': 1691.873046875, 'l1_coeff': 0.8601622020152371, 'lr': 5e-05, 'explained_variance': 0.9447374939918518, 'explained_variance_A': 0.9453125, 'explained_variance_B': 0.9453125}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.61it/s].20it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.49it/s].23it/s]  
+{'loss': 275.9964904785156, 'l2_loss': 111.9964828491211, 'l1_loss': 186.0, 'l0_loss': 1619.283203125, 'l1_coeff': 0.8806422544441713, 'lr': 5e-05, 'explained_variance': 0.9457180500030518, 'explained_variance_A': 0.9453125, 'explained_variance_B': 0.9453125}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.53it/s].93it/s]  
+{'loss': 276.4762268066406, 'l2_loss': 114.4762191772461, 'l1_loss': 180.0, 'l0_loss': 1587.5888671875, 'l1_coeff': 0.9011223068731056, 'lr': 5e-05, 'explained_variance': 0.943726658821106, 'explained_variance_A': 0.9453125, 'explained_variance_B': 0.9453125}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.58it/s].03it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.46it/s].21it/s]  
+{'loss': 308.3287353515625, 'l2_loss': 126.32874298095703, 'l1_loss': 198.0, 'l0_loss': 1704.87890625, 'l1_coeff': 0.9216023593020398, 'lr': 5e-05, 'explained_variance': 0.938084065914154, 'explained_variance_A': 0.9375, 'explained_variance_B': 0.9375}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.62it/s].57it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.42it/s].20it/s]  
+{'loss': 269.85321044921875, 'l2_loss': 110.85321807861328, 'l1_loss': 169.0, 'l0_loss': 1449.3837890625, 'l1_coeff': 0.942082411730974, 'lr': 5e-05, 'explained_variance': 0.9468721151351929, 'explained_variance_A': 0.94921875, 'explained_variance_B': 0.9453125}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.62it/s].15it/s]  
+{'loss': 275.8671569824219, 'l2_loss': 113.86714935302734, 'l1_loss': 168.0, 'l0_loss': 1421.0107421875, 'l1_coeff': 0.9625624641599082, 'lr': 5e-05, 'explained_variance': 0.945759654045105, 'explained_variance_A': 0.9453125, 'explained_variance_B': 0.9453125}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.61it/s].18it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.53it/s].25it/s]  
+{'loss': 284.86865234375, 'l2_loss': 117.86863708496094, 'l1_loss': 170.0, 'l0_loss': 1432.6083984375, 'l1_coeff': 0.9830425165888425, 'lr': 5e-05, 'explained_variance': 0.9432342052459717, 'explained_variance_A': 0.94140625, 'explained_variance_B': 0.9453125}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.06it/s].09it/s]  
+{'loss': 288.92034912109375, 'l2_loss': 118.92035675048828, 'l1_loss': 169.0, 'l0_loss': 1410.7861328125, 'l1_coeff': 1.0035225690177767, 'lr': 5e-05, 'explained_variance': 0.9432265758514404, 'explained_variance_A': 0.9453125, 'explained_variance_B': 0.94140625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.34it/s].68it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.60it/s].08it/s]  
+{'loss': 291.677001953125, 'l2_loss': 120.67701721191406, 'l1_loss': 167.0, 'l0_loss': 1392.34765625, 'l1_coeff': 1.0240026214467108, 'lr': 5e-05, 'explained_variance': 0.9425754547119141, 'explained_variance_A': 0.94140625, 'explained_variance_B': 0.94140625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.61it/s].25it/s]  
+{'loss': 299.2496643066406, 'l2_loss': 125.24966430664062, 'l1_loss': 167.0, 'l0_loss': 1373.068359375, 'l1_coeff': 1.044482673875645, 'lr': 5e-05, 'explained_variance': 0.9408278465270996, 'explained_variance_A': 0.94140625, 'explained_variance_B': 0.94140625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.59it/s].23it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.58it/s].18it/s]  
+{'loss': 305.9169921875, 'l2_loss': 126.9169921875, 'l1_loss': 168.0, 'l0_loss': 1383.853515625, 'l1_coeff': 1.0649627263045793, 'lr': 5e-05, 'explained_variance': 0.9387813806533813, 'explained_variance_A': 0.9375, 'explained_variance_B': 0.9375}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.60it/s].26it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.45it/s].16it/s]  
+{'loss': 327.2726135253906, 'l2_loss': 137.27261352539062, 'l1_loss': 175.0, 'l0_loss': 1444.8974609375, 'l1_coeff': 1.0854427787335135, 'lr': 5e-05, 'explained_variance': 0.9320275187492371, 'explained_variance_A': 0.93359375, 'explained_variance_B': 0.93359375}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.51it/s].48it/s]  
+{'loss': 298.8627624511719, 'l2_loss': 127.8627700805664, 'l1_loss': 155.0, 'l0_loss': 1286.1669921875, 'l1_coeff': 1.1059228311624478, 'lr': 5e-05, 'explained_variance': 0.9378976821899414, 'explained_variance_A': 0.9375, 'explained_variance_B': 0.9375}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.57it/s].11it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.05it/s].16it/s]  
+{'loss': 314.52423095703125, 'l2_loss': 133.5242156982422, 'l1_loss': 161.0, 'l0_loss': 1311.65234375, 'l1_coeff': 1.126402883591382, 'lr': 5e-05, 'explained_variance': 0.9365522861480713, 'explained_variance_A': 0.9375, 'explained_variance_B': 0.9375}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.60it/s].08it/s]  
+{'loss': 331.8626403808594, 'l2_loss': 141.86264038085938, 'l1_loss': 166.0, 'l0_loss': 1353.3203125, 'l1_coeff': 1.146882936020316, 'lr': 5e-05, 'explained_variance': 0.9307944774627686, 'explained_variance_A': 0.9296875, 'explained_variance_B': 0.9296875}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.60it/s].17it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.48it/s].22it/s]  
+{'loss': 327.45477294921875, 'l2_loss': 139.45477294921875, 'l1_loss': 161.0, 'l0_loss': 1304.087890625, 'l1_coeff': 1.1673629884492505, 'lr': 5e-05, 'explained_variance': 0.9322435855865479, 'explained_variance_A': 0.93359375, 'explained_variance_B': 0.9296875}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.25it/s].08it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.59it/s].12it/s]  
+{'loss': 321.66064453125, 'l2_loss': 136.66064453125, 'l1_loss': 156.0, 'l0_loss': 1265.2685546875, 'l1_coeff': 1.1878430408781846, 'lr': 5e-05, 'explained_variance': 0.9324026107788086, 'explained_variance_A': 0.93359375, 'explained_variance_B': 0.93359375}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.58it/s].21it/s]  
+{'loss': 338.84295654296875, 'l2_loss': 145.8429718017578, 'l1_loss': 160.0, 'l0_loss': 1282.080078125, 'l1_coeff': 1.2083230933071187, 'lr': 5e-05, 'explained_variance': 0.9293727874755859, 'explained_variance_A': 0.9296875, 'explained_variance_B': 0.9296875}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.58it/s].22it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.58it/s].24it/s]  
+{'loss': 331.3819580078125, 'l2_loss': 143.3819580078125, 'l1_loss': 153.0, 'l0_loss': 1234.1416015625, 'l1_coeff': 1.228803145736053, 'lr': 5e-05, 'explained_variance': 0.9290906190872192, 'explained_variance_A': 0.9296875, 'explained_variance_B': 0.9296875}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.60it/s].17it/s]  
+{'loss': 334.0250549316406, 'l2_loss': 143.02505493164062, 'l1_loss': 153.0, 'l0_loss': 1193.755859375, 'l1_coeff': 1.2492831981649872, 'lr': 5e-05, 'explained_variance': 0.9332184791564941, 'explained_variance_A': 0.93359375, 'explained_variance_B': 0.93359375}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.57it/s].25it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.62it/s].21it/s]  
+{'loss': 358.9176025390625, 'l2_loss': 155.91761779785156, 'l1_loss': 160.0, 'l0_loss': 1258.640625, 'l1_coeff': 1.2697632505939214, 'lr': 5e-05, 'explained_variance': 0.925101637840271, 'explained_variance_A': 0.92578125, 'explained_variance_B': 0.92578125}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.62it/s].23it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00,  9.72it/s].25it/s]  
+{'loss': 331.8123779296875, 'l2_loss': 143.8123779296875, 'l1_loss': 146.0, 'l0_loss': 1148.095703125, 'l1_coeff': 1.2902433030228557, 'lr': 5e-05, 'explained_variance': 0.931041955947876, 'explained_variance_A': 0.93359375, 'explained_variance_B': 0.9296875}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.60it/s].92it/s]  
+{'loss': 341.6098937988281, 'l2_loss': 148.60989379882812, 'l1_loss': 147.0, 'l0_loss': 1164.0, 'l1_coeff': 1.3107233554517899, 'lr': 5e-05, 'explained_variance': 0.9276537895202637, 'explained_variance_A': 0.9296875, 'explained_variance_B': 0.92578125}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.59it/s].23it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.61it/s].17it/s]  
+{'loss': 364.7406311035156, 'l2_loss': 158.74063110351562, 'l1_loss': 155.0, 'l0_loss': 1212.2353515625, 'l1_coeff': 1.3312034078807242, 'lr': 5e-05, 'explained_variance': 0.9208167791366577, 'explained_variance_A': 0.921875, 'explained_variance_B': 0.921875}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.59it/s].21it/s]  
+{'loss': 350.29571533203125, 'l2_loss': 154.29571533203125, 'l1_loss': 145.0, 'l0_loss': 1134.06640625, 'l1_coeff': 1.3516834603096584, 'lr': 5e-05, 'explained_variance': 0.9259796142578125, 'explained_variance_A': 0.92578125, 'explained_variance_B': 0.92578125}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.60it/s].22it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.57it/s].02it/s]  
+{'loss': 330.724609375, 'l2_loss': 143.72459411621094, 'l1_loss': 136.0, 'l0_loss': 1063.990234375, 'l1_coeff': 1.3721635127385925, 'lr': 5e-05, 'explained_variance': 0.9299095869064331, 'explained_variance_A': 0.9296875, 'explained_variance_B': 0.9296875}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.66it/s].24it/s]  
+{'loss': 345.6703796386719, 'l2_loss': 150.67037963867188, 'l1_loss': 140.0, 'l0_loss': 1072.6943359375, 'l1_coeff': 1.3926435651675269, 'lr': 5e-05, 'explained_variance': 0.9280188083648682, 'explained_variance_A': 0.9296875, 'explained_variance_B': 0.92578125}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.62it/s].26it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.54it/s].25it/s]  
+{'loss': 344.60540771484375, 'l2_loss': 149.60540771484375, 'l1_loss': 138.0, 'l0_loss': 1057.9169921875, 'l1_coeff': 1.413123617596461, 'lr': 5e-05, 'explained_variance': 0.9263449907302856, 'explained_variance_A': 0.92578125, 'explained_variance_B': 0.92578125}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.56it/s].25it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.64it/s].24it/s]  
+{'loss': 374.87872314453125, 'l2_loss': 165.87872314453125, 'l1_loss': 146.0, 'l0_loss': 1111.8876953125, 'l1_coeff': 1.4336036700253951, 'lr': 5e-05, 'explained_variance': 0.9207819104194641, 'explained_variance_A': 0.921875, 'explained_variance_B': 0.91796875}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.48it/s].23it/s]  
+{'loss': 368.59271240234375, 'l2_loss': 163.59271240234375, 'l1_loss': 141.0, 'l0_loss': 1090.9326171875, 'l1_coeff': 1.4540837224543295, 'lr': 5e-05, 'explained_variance': 0.9200587868690491, 'explained_variance_A': 0.921875, 'explained_variance_B': 0.91796875}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.56it/s].22it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.56it/s].75it/s]  
+{'loss': 358.59259033203125, 'l2_loss': 157.59259033203125, 'l1_loss': 136.0, 'l0_loss': 1035.087890625, 'l1_coeff': 1.4745637748832636, 'lr': 5e-05, 'explained_variance': 0.9245158433914185, 'explained_variance_A': 0.92578125, 'explained_variance_B': 0.921875}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.62it/s].16it/s]  
+{'loss': 340.04168701171875, 'l2_loss': 152.04168701171875, 'l1_loss': 126.0, 'l0_loss': 962.001953125, 'l1_coeff': 1.4950438273121978, 'lr': 5e-05, 'explained_variance': 0.9267040491104126, 'explained_variance_A': 0.92578125, 'explained_variance_B': 0.92578125}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.60it/s].23it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.57it/s].17it/s]  
+{'loss': 354.5172119140625, 'l2_loss': 157.51722717285156, 'l1_loss': 130.0, 'l0_loss': 984.3212890625, 'l1_coeff': 1.5155238797411321, 'lr': 5e-05, 'explained_variance': 0.9240046739578247, 'explained_variance_A': 0.92578125, 'explained_variance_B': 0.921875}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.17it/s].86it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.52it/s].07it/s]  
+{'loss': 356.2195739746094, 'l2_loss': 158.21957397460938, 'l1_loss': 129.0, 'l0_loss': 981.384765625, 'l1_coeff': 1.5360039321700663, 'lr': 5e-05, 'explained_variance': 0.92275071144104, 'explained_variance_A': 0.921875, 'explained_variance_B': 0.921875}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.49it/s].08it/s]  
+{'loss': 364.4661865234375, 'l2_loss': 163.4661865234375, 'l1_loss': 129.0, 'l0_loss': 976.9609375, 'l1_coeff': 1.5564839845990006, 'lr': 5e-05, 'explained_variance': 0.9209175109863281, 'explained_variance_A': 0.921875, 'explained_variance_B': 0.921875}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.63it/s].17it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.50it/s].22it/s]  
+{'loss': 380.12835693359375, 'l2_loss': 169.12835693359375, 'l1_loss': 134.0, 'l0_loss': 1009.177734375, 'l1_coeff': 1.5769640370279348, 'lr': 5e-05, 'explained_variance': 0.9179127812385559, 'explained_variance_A': 0.91796875, 'explained_variance_B': 0.91796875}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.51it/s].11it/s]  
+{'loss': 375.81402587890625, 'l2_loss': 167.8140411376953, 'l1_loss': 130.0, 'l0_loss': 971.115234375, 'l1_coeff': 1.5974440894568689, 'lr': 5e-05, 'explained_variance': 0.9190735220909119, 'explained_variance_A': 0.91796875, 'explained_variance_B': 0.91796875}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.64it/s].27it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.61it/s].26it/s]  
+{'loss': 379.137451171875, 'l2_loss': 172.13743591308594, 'l1_loss': 128.0, 'l0_loss': 966.8486328125, 'l1_coeff': 1.6179241418858032, 'lr': 5e-05, 'explained_variance': 0.9161995649337769, 'explained_variance_A': 0.91796875, 'explained_variance_B': 0.91796875}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.53it/s].23it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.55it/s].26it/s]  
+{'loss': 375.609130859375, 'l2_loss': 168.60914611816406, 'l1_loss': 126.5, 'l0_loss': 940.5048828125, 'l1_coeff': 1.6384041943147374, 'lr': 5e-05, 'explained_variance': 0.9194862842559814, 'explained_variance_A': 0.91796875, 'explained_variance_B': 0.91796875}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.62it/s].20it/s]  
+{'loss': 370.56329345703125, 'l2_loss': 167.5633087158203, 'l1_loss': 122.5, 'l0_loss': 908.947265625, 'l1_coeff': 1.6588842467436715, 'lr': 5e-05, 'explained_variance': 0.9183954000473022, 'explained_variance_A': 0.91796875, 'explained_variance_B': 0.91796875}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.63it/s].18it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.55it/s].23it/s]  
+{'loss': 364.0842590332031, 'l2_loss': 164.08425903320312, 'l1_loss': 119.0, 'l0_loss': 878.8056640625, 'l1_coeff': 1.6793642991726059, 'lr': 5e-05, 'explained_variance': 0.9205619096755981, 'explained_variance_A': 0.921875, 'explained_variance_B': 0.921875}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.62it/s].56it/s]  
+{'loss': 382.04937744140625, 'l2_loss': 173.0493621826172, 'l1_loss': 123.0, 'l0_loss': 907.6904296875, 'l1_coeff': 1.69984435160154, 'lr': 5e-05, 'explained_variance': 0.9165117144584656, 'explained_variance_A': 0.91796875, 'explained_variance_B': 0.91796875}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.59it/s].25it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.63it/s].23it/s]  
+{'loss': 369.3932800292969, 'l2_loss': 168.39328002929688, 'l1_loss': 117.0, 'l0_loss': 858.6865234375, 'l1_coeff': 1.7203244040304742, 'lr': 5e-05, 'explained_variance': 0.9203815460205078, 'explained_variance_A': 0.921875, 'explained_variance_B': 0.91796875}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.60it/s].26it/s]  
+{'loss': 394.8686218261719, 'l2_loss': 178.86862182617188, 'l1_loss': 124.0, 'l0_loss': 910.1103515625, 'l1_coeff': 1.7408044564594085, 'lr': 5e-05, 'explained_variance': 0.9127501249313354, 'explained_variance_A': 0.9140625, 'explained_variance_B': 0.91015625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.60it/s].22it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.63it/s].25it/s]  
+{'loss': 364.7210388183594, 'l2_loss': 166.72103881835938, 'l1_loss': 112.5, 'l0_loss': 834.2958984375, 'l1_coeff': 1.7612845088883426, 'lr': 5e-05, 'explained_variance': 0.9194017052650452, 'explained_variance_A': 0.921875, 'explained_variance_B': 0.91796875}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.56it/s].05it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.61it/s].25it/s]  
+{'loss': 396.7431335449219, 'l2_loss': 180.74313354492188, 'l1_loss': 121.5, 'l0_loss': 892.140625, 'l1_coeff': 1.781764561317277, 'lr': 5e-05, 'explained_variance': 0.9123411774635315, 'explained_variance_A': 0.9140625, 'explained_variance_B': 0.91015625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.52it/s].18it/s]  
+{'loss': 386.8991394042969, 'l2_loss': 175.89913940429688, 'l1_loss': 117.0, 'l0_loss': 850.59765625, 'l1_coeff': 1.8022446137462111, 'lr': 5e-05, 'explained_variance': 0.914178729057312, 'explained_variance_A': 0.9140625, 'explained_variance_B': 0.9140625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.57it/s].17it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.61it/s].29it/s]  
+{'loss': 402.58367919921875, 'l2_loss': 183.58367919921875, 'l1_loss': 120.0, 'l0_loss': 874.0068359375, 'l1_coeff': 1.8227246661751453, 'lr': 5e-05, 'explained_variance': 0.9103312492370605, 'explained_variance_A': 0.91015625, 'explained_variance_B': 0.91015625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.40it/s].26it/s]  
+{'loss': 408.75531005859375, 'l2_loss': 186.7553253173828, 'l1_loss': 120.5, 'l0_loss': 870.8701171875, 'l1_coeff': 1.8432047186040796, 'lr': 5e-05, 'explained_variance': 0.9108402729034424, 'explained_variance_A': 0.9140625, 'explained_variance_B': 0.91015625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.64it/s].22it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.61it/s].22it/s]  
+{'loss': 403.719970703125, 'l2_loss': 184.71998596191406, 'l1_loss': 117.5, 'l0_loss': 849.99609375, 'l1_coeff': 1.8636847710330138, 'lr': 5e-05, 'explained_variance': 0.9097384214401245, 'explained_variance_A': 0.91015625, 'explained_variance_B': 0.91015625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.56it/s].24it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.63it/s].25it/s]  
+{'loss': 408.3992919921875, 'l2_loss': 187.39930725097656, 'l1_loss': 117.5, 'l0_loss': 852.3759765625, 'l1_coeff': 1.884164823461948, 'lr': 5e-05, 'explained_variance': 0.9109585285186768, 'explained_variance_A': 0.91015625, 'explained_variance_B': 0.91015625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.63it/s].26it/s]  
+{'loss': 388.2977294921875, 'l2_loss': 178.29771423339844, 'l1_loss': 110.0, 'l0_loss': 795.498046875, 'l1_coeff': 1.9046448758908823, 'lr': 5e-05, 'explained_variance': 0.9140466451644897, 'explained_variance_A': 0.9140625, 'explained_variance_B': 0.9140625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.59it/s].30it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.59it/s].26it/s]  
+{'loss': 400.88665771484375, 'l2_loss': 183.88665771484375, 'l1_loss': 112.5, 'l0_loss': 815.1640625, 'l1_coeff': 1.9251249283198164, 'lr': 5e-05, 'explained_variance': 0.9096125960350037, 'explained_variance_A': 0.91015625, 'explained_variance_B': 0.91015625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.64it/s].25it/s]  
+{'loss': 417.9068298339844, 'l2_loss': 191.90682983398438, 'l1_loss': 116.0, 'l0_loss': 827.109375, 'l1_coeff': 1.9456049807487505, 'lr': 5e-05, 'explained_variance': 0.9082175493240356, 'explained_variance_A': 0.91015625, 'explained_variance_B': 0.90625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.59it/s].26it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.63it/s].24it/s]  
+{'loss': 400.37615966796875, 'l2_loss': 183.37615966796875, 'l1_loss': 110.5, 'l0_loss': 785.87109375, 'l1_coeff': 1.966085033177685, 'lr': 5e-05, 'explained_variance': 0.9116514325141907, 'explained_variance_A': 0.9140625, 'explained_variance_B': 0.91015625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.49it/s].22it/s]  
+{'loss': 372.0325012207031, 'l2_loss': 174.03250122070312, 'l1_loss': 99.5, 'l0_loss': 712.232421875, 'l1_coeff': 1.986565085606619, 'lr': 5e-05, 'explained_variance': 0.9160407185554504, 'explained_variance_A': 0.91796875, 'explained_variance_B': 0.9140625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.65it/s].29it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.60it/s].29it/s]  
+{'loss': 432.5142822265625, 'l2_loss': 202.51429748535156, 'l1_loss': 115.0, 'l0_loss': 824.6591796875, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9025091528892517, 'explained_variance_A': 0.90234375, 'explained_variance_B': 0.90234375}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.58it/s].26it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00,  9.61it/s].23it/s]  
+{'loss': 388.5616455078125, 'l2_loss': 180.56163024902344, 'l1_loss': 104.0, 'l0_loss': 735.76953125, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9140200614929199, 'explained_variance_A': 0.9140625, 'explained_variance_B': 0.9140625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.52it/s]9.91it/s] 
+{'loss': 413.9326477050781, 'l2_loss': 192.93264770507812, 'l1_loss': 110.5, 'l0_loss': 784.0126953125, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9075646996498108, 'explained_variance_A': 0.91015625, 'explained_variance_B': 0.90625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.62it/s]0.21it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.67it/s]0.26it/s]  
+{'loss': 399.5968017578125, 'l2_loss': 186.59678649902344, 'l1_loss': 106.5, 'l0_loss': 756.1630859375, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9104955196380615, 'explained_variance_A': 0.91015625, 'explained_variance_B': 0.91015625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.59it/s]0.18it/s]  
+{'loss': 418.2467346191406, 'l2_loss': 194.24673461914062, 'l1_loss': 112.0, 'l0_loss': 787.251953125, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9065201282501221, 'explained_variance_A': 0.90625, 'explained_variance_B': 0.90625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.63it/s]0.24it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.65it/s]0.24it/s]  
+{'loss': 397.61614990234375, 'l2_loss': 186.6161651611328, 'l1_loss': 105.5, 'l0_loss': 743.1318359375, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9117501974105835, 'explained_variance_A': 0.9140625, 'explained_variance_B': 0.91015625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.26it/s]0.24it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.61it/s]9.92it/s]  
+{'loss': 422.6827087402344, 'l2_loss': 197.68270874023438, 'l1_loss': 112.5, 'l0_loss': 794.9560546875, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9058351516723633, 'explained_variance_A': 0.90625, 'explained_variance_B': 0.90625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.63it/s]0.21it/s]  
+{'loss': 426.3195495605469, 'l2_loss': 201.31954956054688, 'l1_loss': 112.5, 'l0_loss': 801.8115234375, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9044412970542908, 'explained_variance_A': 0.90625, 'explained_variance_B': 0.90234375}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.62it/s]0.21it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.57it/s]0.31it/s]  
+{'loss': 406.877685546875, 'l2_loss': 191.87770080566406, 'l1_loss': 107.5, 'l0_loss': 754.623046875, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9094128608703613, 'explained_variance_A': 0.91015625, 'explained_variance_B': 0.91015625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.62it/s]0.31it/s]  
+{'loss': 390.9942626953125, 'l2_loss': 182.9942626953125, 'l1_loss': 104.0, 'l0_loss': 733.458984375, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9138896465301514, 'explained_variance_A': 0.9140625, 'explained_variance_B': 0.9140625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.61it/s]0.27it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.62it/s]0.27it/s]  
+{'loss': 412.0625, 'l2_loss': 195.06248474121094, 'l1_loss': 108.5, 'l0_loss': 766.900390625, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9064717292785645, 'explained_variance_A': 0.90625, 'explained_variance_B': 0.90625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.57it/s]0.33it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.62it/s]0.25it/s]  
+{'loss': 406.66192626953125, 'l2_loss': 191.66192626953125, 'l1_loss': 107.5, 'l0_loss': 756.7119140625, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9077011942863464, 'explained_variance_A': 0.91015625, 'explained_variance_B': 0.90625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.59it/s]0.27it/s]  
+{'loss': 431.4617919921875, 'l2_loss': 203.4617919921875, 'l1_loss': 114.0, 'l0_loss': 803.70703125, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9019142389297485, 'explained_variance_A': 0.90234375, 'explained_variance_B': 0.90234375}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.59it/s]0.25it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.63it/s]0.25it/s]  
+{'loss': 404.50567626953125, 'l2_loss': 191.50567626953125, 'l1_loss': 106.5, 'l0_loss': 756.177734375, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9057180881500244, 'explained_variance_A': 0.90625, 'explained_variance_B': 0.90625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.49it/s]0.32it/s]  
+{'loss': 418.39453125, 'l2_loss': 198.39451599121094, 'l1_loss': 110.0, 'l0_loss': 778.123046875, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9045306444168091, 'explained_variance_A': 0.90625, 'explained_variance_B': 0.90234375}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.64it/s]9.97it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.60it/s]0.02it/s]  
+{'loss': 390.70941162109375, 'l2_loss': 184.70941162109375, 'l1_loss': 103.0, 'l0_loss': 726.6240234375, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9128531217575073, 'explained_variance_A': 0.9140625, 'explained_variance_B': 0.9140625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.62it/s]0.22it/s]  
+{'loss': 389.4505615234375, 'l2_loss': 183.4505615234375, 'l1_loss': 103.0, 'l0_loss': 725.0830078125, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9118986129760742, 'explained_variance_A': 0.9140625, 'explained_variance_B': 0.91015625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.60it/s]0.31it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.55it/s]0.14it/s]  
+{'loss': 403.9683532714844, 'l2_loss': 189.96835327148438, 'l1_loss': 107.0, 'l0_loss': 753.162109375, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9088141322135925, 'explained_variance_A': 0.91015625, 'explained_variance_B': 0.90625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.61it/s]0.27it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.61it/s]0.27it/s]  
+{'loss': 388.8320617675781, 'l2_loss': 182.83206176757812, 'l1_loss': 103.0, 'l0_loss': 720.5791015625, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9130840301513672, 'explained_variance_A': 0.9140625, 'explained_variance_B': 0.91015625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.63it/s]0.22it/s]  
+{'loss': 435.6955261230469, 'l2_loss': 207.69552612304688, 'l1_loss': 114.0, 'l0_loss': 809.576171875, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.8987298011779785, 'explained_variance_A': 0.8984375, 'explained_variance_B': 0.8984375}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.59it/s]0.33it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.63it/s]0.31it/s]  
+{'loss': 375.88616943359375, 'l2_loss': 176.88616943359375, 'l1_loss': 99.5, 'l0_loss': 703.017578125, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9139347672462463, 'explained_variance_A': 0.9140625, 'explained_variance_B': 0.9140625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.63it/s]0.25it/s]  
+{'loss': 421.05596923828125, 'l2_loss': 202.05596923828125, 'l1_loss': 109.5, 'l0_loss': 778.0498046875, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.901067852973938, 'explained_variance_A': 0.90234375, 'explained_variance_B': 0.90234375}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.64it/s]0.31it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.62it/s]0.29it/s]  
+{'loss': 394.823486328125, 'l2_loss': 187.823486328125, 'l1_loss': 103.5, 'l0_loss': 725.36328125, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9098376035690308, 'explained_variance_A': 0.91015625, 'explained_variance_B': 0.91015625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.62it/s]9.49it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.62it/s]0.28it/s]  
+{'loss': 406.65142822265625, 'l2_loss': 194.6514129638672, 'l1_loss': 106.0, 'l0_loss': 750.9345703125, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9059603214263916, 'explained_variance_A': 0.90625, 'explained_variance_B': 0.90625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.61it/s]0.27it/s]  
+{'loss': 401.5163879394531, 'l2_loss': 192.51638793945312, 'l1_loss': 104.5, 'l0_loss': 738.9404296875, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.906329870223999, 'explained_variance_A': 0.90625, 'explained_variance_B': 0.90625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.57it/s]0.28it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.61it/s]9.32it/s]  
+{'loss': 377.0322265625, 'l2_loss': 179.03224182128906, 'l1_loss': 99.0, 'l0_loss': 691.7744140625, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9146457314491272, 'explained_variance_A': 0.9140625, 'explained_variance_B': 0.9140625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.59it/s]0.25it/s]  
+{'loss': 386.24224853515625, 'l2_loss': 184.24224853515625, 'l1_loss': 101.0, 'l0_loss': 709.1455078125, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9118991494178772, 'explained_variance_A': 0.9140625, 'explained_variance_B': 0.91015625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00,  9.37it/s]0.25it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.50it/s]9.86it/s]  
+{'loss': 389.8543395996094, 'l2_loss': 184.85433959960938, 'l1_loss': 102.5, 'l0_loss': 721.6025390625, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9115146398544312, 'explained_variance_A': 0.9140625, 'explained_variance_B': 0.91015625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.59it/s]0.27it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.61it/s]0.31it/s]  
+{'loss': 413.3751220703125, 'l2_loss': 198.3751220703125, 'l1_loss': 107.5, 'l0_loss': 756.3837890625, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9030916094779968, 'explained_variance_A': 0.90234375, 'explained_variance_B': 0.90234375}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.57it/s]0.26it/s]  
+{'loss': 409.80511474609375, 'l2_loss': 195.8050994873047, 'l1_loss': 107.0, 'l0_loss': 755.0654296875, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9051932096481323, 'explained_variance_A': 0.90625, 'explained_variance_B': 0.90625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.64it/s]0.31it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.57it/s]0.30it/s]  
+{'loss': 404.0251770019531, 'l2_loss': 193.02517700195312, 'l1_loss': 105.5, 'l0_loss': 738.1591796875, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9070056080818176, 'explained_variance_A': 0.90625, 'explained_variance_B': 0.90625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.64it/s]0.28it/s]  
+{'loss': 404.082275390625, 'l2_loss': 194.08226013183594, 'l1_loss': 105.0, 'l0_loss': 739.54296875, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9076535105705261, 'explained_variance_A': 0.91015625, 'explained_variance_B': 0.90625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.58it/s]0.30it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.60it/s]0.30it/s]  
+{'loss': 410.4874267578125, 'l2_loss': 196.4874267578125, 'l1_loss': 107.0, 'l0_loss': 752.0029296875, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9061071872711182, 'explained_variance_A': 0.90625, 'explained_variance_B': 0.90625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.61it/s]0.21it/s]  
+{'loss': 408.3621826171875, 'l2_loss': 197.3621826171875, 'l1_loss': 105.5, 'l0_loss': 750.5400390625, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9048590660095215, 'explained_variance_A': 0.90625, 'explained_variance_B': 0.90625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.61it/s]0.31it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.65it/s]0.30it/s]  
+{'loss': 397.7908020019531, 'l2_loss': 189.79080200195312, 'l1_loss': 104.0, 'l0_loss': 733.54296875, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9080568552017212, 'explained_variance_A': 0.91015625, 'explained_variance_B': 0.90625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.56it/s]0.29it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.57it/s]0.27it/s]  
+{'loss': 390.48883056640625, 'l2_loss': 187.48883056640625, 'l1_loss': 101.5, 'l0_loss': 716.5302734375, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9083423018455505, 'explained_variance_A': 0.91015625, 'explained_variance_B': 0.90625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.57it/s]0.25it/s]  
+{'loss': 392.32000732421875, 'l2_loss': 188.3200225830078, 'l1_loss': 102.0, 'l0_loss': 714.0205078125, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9096474647521973, 'explained_variance_A': 0.91015625, 'explained_variance_B': 0.91015625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.62it/s]0.28it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.64it/s]0.31it/s]  
+{'loss': 408.546630859375, 'l2_loss': 196.54664611816406, 'l1_loss': 106.0, 'l0_loss': 742.126953125, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9053968787193298, 'explained_variance_A': 0.90625, 'explained_variance_B': 0.90625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.34it/s]0.26it/s]  
+{'loss': 412.70831298828125, 'l2_loss': 198.7083282470703, 'l1_loss': 107.0, 'l0_loss': 754.876953125, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9035899043083191, 'explained_variance_A': 0.90625, 'explained_variance_B': 0.90234375}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.61it/s]0.20it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.57it/s]0.27it/s]  
+{'loss': 394.0980529785156, 'l2_loss': 188.09805297851562, 'l1_loss': 103.0, 'l0_loss': 721.64453125, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9094570279121399, 'explained_variance_A': 0.91015625, 'explained_variance_B': 0.91015625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.60it/s]0.28it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.62it/s]0.26it/s]  
+{'loss': 400.4571838378906, 'l2_loss': 189.45718383789062, 'l1_loss': 105.5, 'l0_loss': 729.2333984375, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.910524845123291, 'explained_variance_A': 0.91015625, 'explained_variance_B': 0.91015625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.65it/s]0.25it/s]  
+{'loss': 412.26544189453125, 'l2_loss': 196.26544189453125, 'l1_loss': 108.0, 'l0_loss': 751.4541015625, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9043077826499939, 'explained_variance_A': 0.90625, 'explained_variance_B': 0.90234375}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.59it/s]0.33it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.58it/s]0.28it/s]  
+{'loss': 417.94964599609375, 'l2_loss': 198.94964599609375, 'l1_loss': 109.5, 'l0_loss': 759.71875, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9055284857749939, 'explained_variance_A': 0.90625, 'explained_variance_B': 0.90234375}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.61it/s]0.19it/s]  
+{'loss': 415.90777587890625, 'l2_loss': 200.90777587890625, 'l1_loss': 107.5, 'l0_loss': 752.484375, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9034096002578735, 'explained_variance_A': 0.90625, 'explained_variance_B': 0.90234375}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.63it/s]0.38it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.62it/s]0.26it/s]  
+{'loss': 405.30963134765625, 'l2_loss': 195.30963134765625, 'l1_loss': 105.0, 'l0_loss': 735.572265625, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9035977125167847, 'explained_variance_A': 0.90625, 'explained_variance_B': 0.90234375}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.66it/s]0.07it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.60it/s]0.32it/s]  
+{'loss': 400.4825744628906, 'l2_loss': 192.48257446289062, 'l1_loss': 104.0, 'l0_loss': 729.689453125, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9075541496276855, 'explained_variance_A': 0.91015625, 'explained_variance_B': 0.90625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.59it/s]0.27it/s]  
+{'loss': 374.6357116699219, 'l2_loss': 179.63571166992188, 'l1_loss': 97.5, 'l0_loss': 678.7646484375, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9157406091690063, 'explained_variance_A': 0.91796875, 'explained_variance_B': 0.9140625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.65it/s]0.22it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.55it/s]0.16it/s]  
+{'loss': 394.90985107421875, 'l2_loss': 189.90985107421875, 'l1_loss': 102.5, 'l0_loss': 719.2548828125, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9094448685646057, 'explained_variance_A': 0.91015625, 'explained_variance_B': 0.91015625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.67it/s]0.22it/s]  
+{'loss': 421.5646667480469, 'l2_loss': 201.56466674804688, 'l1_loss': 110.0, 'l0_loss': 765.732421875, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9049310088157654, 'explained_variance_A': 0.90625, 'explained_variance_B': 0.90234375}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.66it/s]0.34it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.55it/s]0.29it/s]  
+{'loss': 418.35638427734375, 'l2_loss': 200.3563995361328, 'l1_loss': 109.0, 'l0_loss': 759.4208984375, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9031352996826172, 'explained_variance_A': 0.90625, 'explained_variance_B': 0.90234375}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.64it/s]0.08it/s]  
+{'loss': 392.8158874511719, 'l2_loss': 189.81588745117188, 'l1_loss': 101.5, 'l0_loss': 712.224609375, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9080567359924316, 'explained_variance_A': 0.91015625, 'explained_variance_B': 0.90625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.63it/s]0.29it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.60it/s]0.26it/s]  
+{'loss': 413.4970703125, 'l2_loss': 199.4970703125, 'l1_loss': 107.0, 'l0_loss': 748.77734375, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9019666910171509, 'explained_variance_A': 0.90234375, 'explained_variance_B': 0.90234375}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00,  9.28it/s]0.28it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.63it/s]9.87it/s]  
+{'loss': 395.7691650390625, 'l2_loss': 190.7691650390625, 'l1_loss': 102.5, 'l0_loss': 717.07421875, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9087271690368652, 'explained_variance_A': 0.91015625, 'explained_variance_B': 0.90625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.61it/s]0.17it/s]  
+{'loss': 413.8561706542969, 'l2_loss': 199.85617065429688, 'l1_loss': 107.0, 'l0_loss': 747.2666015625, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.902061939239502, 'explained_variance_A': 0.90234375, 'explained_variance_B': 0.90234375}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.62it/s]0.34it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.65it/s]0.35it/s]  
+{'loss': 397.440673828125, 'l2_loss': 191.44065856933594, 'l1_loss': 103.0, 'l0_loss': 711.8447265625, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9090514183044434, 'explained_variance_A': 0.91015625, 'explained_variance_B': 0.91015625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.66it/s]0.25it/s]  
+{'loss': 383.878662109375, 'l2_loss': 184.878662109375, 'l1_loss': 99.5, 'l0_loss': 694.822265625, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9122669696807861, 'explained_variance_A': 0.9140625, 'explained_variance_B': 0.91015625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.65it/s]0.31it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.63it/s]0.34it/s]  
+{'loss': 422.62841796875, 'l2_loss': 201.62843322753906, 'l1_loss': 110.5, 'l0_loss': 768.3046875, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9026440978050232, 'explained_variance_A': 0.90234375, 'explained_variance_B': 0.90234375}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.67it/s]0.29it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.60it/s]0.34it/s]  
+{'loss': 395.3711242675781, 'l2_loss': 191.37112426757812, 'l1_loss': 102.0, 'l0_loss': 714.0146484375, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9084331393241882, 'explained_variance_A': 0.91015625, 'explained_variance_B': 0.90625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.64it/s]0.28it/s]  
+{'loss': 395.3049011230469, 'l2_loss': 192.30490112304688, 'l1_loss': 101.5, 'l0_loss': 722.38671875, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9066562652587891, 'explained_variance_A': 0.91015625, 'explained_variance_B': 0.90625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.53it/s]0.39it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.60it/s]0.08it/s]  
+{'loss': 408.5820007324219, 'l2_loss': 197.58200073242188, 'l1_loss': 105.5, 'l0_loss': 741.55078125, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9038156270980835, 'explained_variance_A': 0.90625, 'explained_variance_B': 0.90234375}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.63it/s]0.26it/s]  
+{'loss': 382.9287109375, 'l2_loss': 185.9287109375, 'l1_loss': 98.5, 'l0_loss': 691.0302734375, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.911011815071106, 'explained_variance_A': 0.9140625, 'explained_variance_B': 0.91015625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.57it/s]0.32it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.66it/s]0.09it/s]  
+{'loss': 385.02935791015625, 'l2_loss': 185.0293426513672, 'l1_loss': 100.0, 'l0_loss': 703.083984375, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9108093976974487, 'explained_variance_A': 0.91015625, 'explained_variance_B': 0.91015625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.58it/s]0.32it/s]  
+{'loss': 386.6251220703125, 'l2_loss': 186.62510681152344, 'l1_loss': 100.0, 'l0_loss': 693.2060546875, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9108070731163025, 'explained_variance_A': 0.91015625, 'explained_variance_B': 0.91015625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.61it/s]0.26it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.65it/s]0.25it/s]  
+{'loss': 417.364501953125, 'l2_loss': 199.36451721191406, 'l1_loss': 109.0, 'l0_loss': 753.859375, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9045748114585876, 'explained_variance_A': 0.90625, 'explained_variance_B': 0.90234375}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.66it/s]0.33it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.66it/s]0.33it/s]  
+{'loss': 391.59100341796875, 'l2_loss': 188.5910186767578, 'l1_loss': 101.5, 'l0_loss': 705.5322265625, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9110126495361328, 'explained_variance_A': 0.91015625, 'explained_variance_B': 0.91015625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.64it/s]0.31it/s]  
+{'loss': 397.2957763671875, 'l2_loss': 191.2957763671875, 'l1_loss': 103.0, 'l0_loss': 711.4775390625, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.909089982509613, 'explained_variance_A': 0.91015625, 'explained_variance_B': 0.91015625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.42it/s]0.33it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.66it/s]0.25it/s]  
+{'loss': 400.257080078125, 'l2_loss': 193.257080078125, 'l1_loss': 103.5, 'l0_loss': 720.43359375, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9065282344818115, 'explained_variance_A': 0.90625, 'explained_variance_B': 0.90625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.62it/s]0.27it/s]  
+{'loss': 424.3748779296875, 'l2_loss': 203.3748779296875, 'l1_loss': 110.5, 'l0_loss': 765.765625, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9032024145126343, 'explained_variance_A': 0.90625, 'explained_variance_B': 0.90234375}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.61it/s]0.29it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.62it/s]0.26it/s]  
+{'loss': 420.12109375, 'l2_loss': 202.12107849121094, 'l1_loss': 109.0, 'l0_loss': 754.83984375, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9026386737823486, 'explained_variance_A': 0.90234375, 'explained_variance_B': 0.90234375}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.62it/s]0.32it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.62it/s]0.29it/s]  
+{'loss': 398.8735656738281, 'l2_loss': 190.87356567382812, 'l1_loss': 104.0, 'l0_loss': 718.7744140625, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.908353328704834, 'explained_variance_A': 0.91015625, 'explained_variance_B': 0.90625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.65it/s]0.29it/s]  
+{'loss': 407.193603515625, 'l2_loss': 195.193603515625, 'l1_loss': 106.0, 'l0_loss': 736.14453125, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9056494235992432, 'explained_variance_A': 0.90625, 'explained_variance_B': 0.90234375}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.64it/s]0.23it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.61it/s]0.30it/s]  
+{'loss': 413.59417724609375, 'l2_loss': 200.59417724609375, 'l1_loss': 106.5, 'l0_loss': 740.4951171875, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9033775925636292, 'explained_variance_A': 0.90625, 'explained_variance_B': 0.90234375}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.63it/s]0.14it/s]  
+{'loss': 396.849853515625, 'l2_loss': 190.84986877441406, 'l1_loss': 103.0, 'l0_loss': 721.607421875, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9097694158554077, 'explained_variance_A': 0.91015625, 'explained_variance_B': 0.91015625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.59it/s]0.32it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.67it/s]0.30it/s]  
+{'loss': 413.16619873046875, 'l2_loss': 201.1662139892578, 'l1_loss': 106.0, 'l0_loss': 745.2734375, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9024229049682617, 'explained_variance_A': 0.90234375, 'explained_variance_B': 0.90234375}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.68it/s]0.38it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.66it/s]0.34it/s]  
+{'loss': 384.90673828125, 'l2_loss': 185.90673828125, 'l1_loss': 99.5, 'l0_loss': 690.4423828125, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9110414981842041, 'explained_variance_A': 0.9140625, 'explained_variance_B': 0.91015625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.65it/s]0.20it/s]  
+{'loss': 408.95172119140625, 'l2_loss': 197.9517059326172, 'l1_loss': 105.5, 'l0_loss': 738.412109375, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9045015573501587, 'explained_variance_A': 0.90625, 'explained_variance_B': 0.90234375}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.65it/s]0.31it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.69it/s]0.31it/s]  
+{'loss': 411.46258544921875, 'l2_loss': 201.4626007080078, 'l1_loss': 105.0, 'l0_loss': 739.8857421875, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9003393650054932, 'explained_variance_A': 0.90234375, 'explained_variance_B': 0.8984375}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.34it/s]0.30it/s]  
+{'loss': 389.2200012207031, 'l2_loss': 189.22000122070312, 'l1_loss': 100.0, 'l0_loss': 699.12890625, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9100325703620911, 'explained_variance_A': 0.91015625, 'explained_variance_B': 0.91015625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.68it/s]9.88it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.66it/s]0.23it/s]  
+{'loss': 387.046875, 'l2_loss': 188.046875, 'l1_loss': 99.5, 'l0_loss': 700.19140625, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9086511135101318, 'explained_variance_A': 0.91015625, 'explained_variance_B': 0.90625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.66it/s]0.34it/s]  
+{'loss': 388.29595947265625, 'l2_loss': 187.2959442138672, 'l1_loss': 100.5, 'l0_loss': 697.0498046875, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9105911254882812, 'explained_variance_A': 0.91015625, 'explained_variance_B': 0.91015625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.54it/s]0.39it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.66it/s]0.27it/s]  
+{'loss': 416.0106201171875, 'l2_loss': 201.0106201171875, 'l1_loss': 107.5, 'l0_loss': 753.0205078125, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.902408242225647, 'explained_variance_A': 0.90234375, 'explained_variance_B': 0.90234375}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.60it/s]0.36it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.62it/s]0.30it/s]  
+{'loss': 409.70452880859375, 'l2_loss': 197.7045135498047, 'l1_loss': 106.0, 'l0_loss': 739.7783203125, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9027759432792664, 'explained_variance_A': 0.90234375, 'explained_variance_B': 0.90234375}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.66it/s]0.30it/s]  
+{'loss': 412.0398254394531, 'l2_loss': 200.03982543945312, 'l1_loss': 106.0, 'l0_loss': 733.50390625, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9035215377807617, 'explained_variance_A': 0.90234375, 'explained_variance_B': 0.90234375}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.61it/s]0.31it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.59it/s]0.33it/s]  
+{'loss': 402.4604187011719, 'l2_loss': 194.46041870117188, 'l1_loss': 104.0, 'l0_loss': 720.8525390625, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9060103893280029, 'explained_variance_A': 0.90625, 'explained_variance_B': 0.90625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.71it/s]0.28it/s]  
+{'loss': 390.21502685546875, 'l2_loss': 189.2150421142578, 'l1_loss': 100.5, 'l0_loss': 698.109375, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9108887910842896, 'explained_variance_A': 0.91015625, 'explained_variance_B': 0.91015625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.68it/s]0.37it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.68it/s]0.31it/s]  
+{'loss': 385.06182861328125, 'l2_loss': 186.0618438720703, 'l1_loss': 99.5, 'l0_loss': 690.3076171875, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9107373952865601, 'explained_variance_A': 0.9140625, 'explained_variance_B': 0.91015625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.63it/s]0.19it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.51it/s]0.31it/s]  
+{'loss': 409.9443359375, 'l2_loss': 199.94432067871094, 'l1_loss': 105.0, 'l0_loss': 729.4248046875, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.904617965221405, 'explained_variance_A': 0.90625, 'explained_variance_B': 0.90234375}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.65it/s]0.24it/s]  
+{'loss': 380.1905517578125, 'l2_loss': 183.19056701660156, 'l1_loss': 98.5, 'l0_loss': 687.599609375, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9112937450408936, 'explained_variance_A': 0.9140625, 'explained_variance_B': 0.91015625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.69it/s]0.34it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.55it/s]0.38it/s]  
+{'loss': 425.5039978027344, 'l2_loss': 204.50399780273438, 'l1_loss': 110.5, 'l0_loss': 765.0771484375, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9020248651504517, 'explained_variance_A': 0.90234375, 'explained_variance_B': 0.90234375}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.61it/s]0.21it/s]  
+{'loss': 410.9716796875, 'l2_loss': 197.97166442871094, 'l1_loss': 106.5, 'l0_loss': 738.658203125, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9037915468215942, 'explained_variance_A': 0.90625, 'explained_variance_B': 0.90234375}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.64it/s]0.30it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.59it/s]0.33it/s]  
+{'loss': 412.98291015625, 'l2_loss': 200.98291015625, 'l1_loss': 106.0, 'l0_loss': 737.8623046875, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9015776515007019, 'explained_variance_A': 0.90234375, 'explained_variance_B': 0.90234375}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.65it/s]0.24it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.66it/s]0.32it/s]  
+{'loss': 388.2630615234375, 'l2_loss': 190.26304626464844, 'l1_loss': 99.0, 'l0_loss': 698.9501953125, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.90645432472229, 'explained_variance_A': 0.90625, 'explained_variance_B': 0.90625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.71it/s]0.30it/s]  
+{'loss': 399.39288330078125, 'l2_loss': 195.3928985595703, 'l1_loss': 102.0, 'l0_loss': 710.7470703125, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9077194929122925, 'explained_variance_A': 0.91015625, 'explained_variance_B': 0.90625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.66it/s]0.28it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.54it/s]0.37it/s]  
+{'loss': 399.40673828125, 'l2_loss': 193.40675354003906, 'l1_loss': 103.0, 'l0_loss': 718.62890625, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9061604142189026, 'explained_variance_A': 0.90625, 'explained_variance_B': 0.90625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.61it/s]7.53it/s]  
+{'loss': 405.5242004394531, 'l2_loss': 198.52420043945312, 'l1_loss': 103.5, 'l0_loss': 721.595703125, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9073132276535034, 'explained_variance_A': 0.91015625, 'explained_variance_B': 0.90625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.66it/s]0.22it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.72it/s]0.35it/s]  
+{'loss': 395.5224914550781, 'l2_loss': 192.52249145507812, 'l1_loss': 101.5, 'l0_loss': 708.4755859375, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9066276550292969, 'explained_variance_A': 0.90625, 'explained_variance_B': 0.90625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.67it/s]0.42it/s]  
+{'loss': 387.3105773925781, 'l2_loss': 187.31057739257812, 'l1_loss': 100.0, 'l0_loss': 696.3603515625, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9102332592010498, 'explained_variance_A': 0.91015625, 'explained_variance_B': 0.91015625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.68it/s]0.38it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.68it/s]0.36it/s]  
+{'loss': 408.68414306640625, 'l2_loss': 197.68414306640625, 'l1_loss': 105.5, 'l0_loss': 728.5283203125, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9073024988174438, 'explained_variance_A': 0.90625, 'explained_variance_B': 0.90625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.58it/s]0.40it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.71it/s]0.34it/s]  
+{'loss': 410.37939453125, 'l2_loss': 198.37937927246094, 'l1_loss': 106.0, 'l0_loss': 736.80078125, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9049288630485535, 'explained_variance_A': 0.90625, 'explained_variance_B': 0.90234375}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.67it/s]0.40it/s]  
+{'loss': 422.0648498535156, 'l2_loss': 204.06484985351562, 'l1_loss': 109.0, 'l0_loss': 752.8232421875, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9036600589752197, 'explained_variance_A': 0.90625, 'explained_variance_B': 0.90234375}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.67it/s]0.34it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.54it/s]0.35it/s]  
+{'loss': 378.316650390625, 'l2_loss': 183.31666564941406, 'l1_loss': 97.5, 'l0_loss': 679.6982421875, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9124950170516968, 'explained_variance_A': 0.9140625, 'explained_variance_B': 0.91015625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.68it/s]0.25it/s]  
+{'loss': 379.9311218261719, 'l2_loss': 184.93112182617188, 'l1_loss': 97.5, 'l0_loss': 681.0703125, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9139014482498169, 'explained_variance_A': 0.9140625, 'explained_variance_B': 0.9140625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.70it/s]0.33it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.44it/s]5.03it/s]  
+{'loss': 375.43878173828125, 'l2_loss': 182.43878173828125, 'l1_loss': 96.5, 'l0_loss': 667.650390625, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9141138792037964, 'explained_variance_A': 0.9140625, 'explained_variance_B': 0.9140625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.64it/s]9.86it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.57it/s]0.31it/s]  
+{'loss': 414.91363525390625, 'l2_loss': 199.9136505126953, 'l1_loss': 107.5, 'l0_loss': 745.05859375, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9044471383094788, 'explained_variance_A': 0.90625, 'explained_variance_B': 0.90234375}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.64it/s]0.34it/s]  
+{'loss': 407.9886474609375, 'l2_loss': 195.9886474609375, 'l1_loss': 106.0, 'l0_loss': 735.7705078125, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9061284065246582, 'explained_variance_A': 0.90625, 'explained_variance_B': 0.90625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.59it/s]0.39it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.65it/s]0.25it/s]  
+{'loss': 403.3232421875, 'l2_loss': 195.3232421875, 'l1_loss': 104.0, 'l0_loss': 725.6689453125, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9060849547386169, 'explained_variance_A': 0.90625, 'explained_variance_B': 0.90625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.66it/s]0.28it/s]  
+{'loss': 401.68896484375, 'l2_loss': 195.68894958496094, 'l1_loss': 103.0, 'l0_loss': 714.94140625, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9067912101745605, 'explained_variance_A': 0.90625, 'explained_variance_B': 0.90625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.66it/s]0.39it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.49it/s]9.96it/s]  
+{'loss': 419.946044921875, 'l2_loss': 202.94606018066406, 'l1_loss': 108.5, 'l0_loss': 745.921875, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9014087915420532, 'explained_variance_A': 0.90234375, 'explained_variance_B': 0.90234375}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.62it/s]0.30it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.69it/s]0.36it/s]  
+{'loss': 402.03375244140625, 'l2_loss': 194.03375244140625, 'l1_loss': 104.0, 'l0_loss': 723.4501953125, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9059453010559082, 'explained_variance_A': 0.90625, 'explained_variance_B': 0.90625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.69it/s]0.36it/s]  
+{'loss': 389.87939453125, 'l2_loss': 187.87937927246094, 'l1_loss': 101.0, 'l0_loss': 696.7099609375, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9101085662841797, 'explained_variance_A': 0.91015625, 'explained_variance_B': 0.91015625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.49it/s]0.39it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.63it/s]0.16it/s]  
+{'loss': 393.1527404785156, 'l2_loss': 191.15274047851562, 'l1_loss': 101.0, 'l0_loss': 704.0810546875, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9076448678970337, 'explained_variance_A': 0.90625, 'explained_variance_B': 0.90625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.68it/s]0.25it/s]  
+{'loss': 389.606689453125, 'l2_loss': 189.606689453125, 'l1_loss': 100.0, 'l0_loss': 699.27734375, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9099660515785217, 'explained_variance_A': 0.91015625, 'explained_variance_B': 0.91015625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.39it/s]0.40it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.61it/s]0.29it/s]  
+{'loss': 404.9010009765625, 'l2_loss': 196.90101623535156, 'l1_loss': 104.0, 'l0_loss': 722.20703125, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9041812419891357, 'explained_variance_A': 0.90625, 'explained_variance_B': 0.90234375}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.70it/s]0.32it/s]  
+{'loss': 361.1588439941406, 'l2_loss': 176.15884399414062, 'l1_loss': 92.5, 'l0_loss': 647.10546875, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9164966344833374, 'explained_variance_A': 0.91796875, 'explained_variance_B': 0.9140625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.65it/s]0.29it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.62it/s]0.37it/s]  
+{'loss': 390.24896240234375, 'l2_loss': 190.2489776611328, 'l1_loss': 100.0, 'l0_loss': 696.3984375, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9078230857849121, 'explained_variance_A': 0.91015625, 'explained_variance_B': 0.90625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.65it/s]0.32it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.68it/s]0.39it/s]  
+{'loss': 398.355224609375, 'l2_loss': 192.355224609375, 'l1_loss': 103.0, 'l0_loss': 705.220703125, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9086869359016418, 'explained_variance_A': 0.91015625, 'explained_variance_B': 0.90625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.70it/s]0.25it/s]  
+{'loss': 429.7257385253906, 'l2_loss': 209.72573852539062, 'l1_loss': 110.0, 'l0_loss': 766.8681640625, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9000003337860107, 'explained_variance_A': 0.90234375, 'explained_variance_B': 0.8984375}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.64it/s]0.36it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.65it/s]0.35it/s]  
+{'loss': 385.7996826171875, 'l2_loss': 186.7996826171875, 'l1_loss': 99.5, 'l0_loss': 690.1025390625, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9115115404129028, 'explained_variance_A': 0.9140625, 'explained_variance_B': 0.91015625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.68it/s]0.31it/s]  
+{'loss': 381.5553283691406, 'l2_loss': 187.55532836914062, 'l1_loss': 97.0, 'l0_loss': 679.9267578125, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9094923138618469, 'explained_variance_A': 0.91015625, 'explained_variance_B': 0.90625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.70it/s]0.40it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.57it/s]0.44it/s]  
+{'loss': 397.0922546386719, 'l2_loss': 192.09225463867188, 'l1_loss': 102.5, 'l0_loss': 715.193359375, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9066692590713501, 'explained_variance_A': 0.90625, 'explained_variance_B': 0.90625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.69it/s]0.33it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.67it/s]0.34it/s]  
+{'loss': 406.02899169921875, 'l2_loss': 196.0289764404297, 'l1_loss': 105.0, 'l0_loss': 722.6376953125, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.90853351354599, 'explained_variance_A': 0.91015625, 'explained_variance_B': 0.90625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.60it/s]0.30it/s]  
+{'loss': 412.2996826171875, 'l2_loss': 201.2996826171875, 'l1_loss': 105.5, 'l0_loss': 737.228515625, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9024685621261597, 'explained_variance_A': 0.90234375, 'explained_variance_B': 0.90234375}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.69it/s]0.39it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.63it/s]0.40it/s]  
+{'loss': 403.1400451660156, 'l2_loss': 194.14004516601562, 'l1_loss': 104.5, 'l0_loss': 726.130859375, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.908057451248169, 'explained_variance_A': 0.91015625, 'explained_variance_B': 0.90625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.69it/s]0.25it/s]  
+{'loss': 368.4537353515625, 'l2_loss': 179.45372009277344, 'l1_loss': 94.5, 'l0_loss': 657.3896484375, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9151931405067444, 'explained_variance_A': 0.91796875, 'explained_variance_B': 0.9140625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.63it/s]0.36it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.73it/s]0.36it/s]  
+{'loss': 408.9222412109375, 'l2_loss': 197.92222595214844, 'l1_loss': 105.5, 'l0_loss': 728.7177734375, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9059152603149414, 'explained_variance_A': 0.90625, 'explained_variance_B': 0.90625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.68it/s]0.43it/s]  
+{'loss': 397.6499328613281, 'l2_loss': 192.64993286132812, 'l1_loss': 102.5, 'l0_loss': 710.171875, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9072023630142212, 'explained_variance_A': 0.91015625, 'explained_variance_B': 0.90625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.49it/s]0.44it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.65it/s]0.31it/s]  
+{'loss': 410.3612060546875, 'l2_loss': 199.36119079589844, 'l1_loss': 105.5, 'l0_loss': 732.833984375, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9039254784584045, 'explained_variance_A': 0.90625, 'explained_variance_B': 0.90234375}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.64it/s]0.34it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.43it/s]6.20it/s]  
+{'loss': 399.33282470703125, 'l2_loss': 195.33282470703125, 'l1_loss': 102.0, 'l0_loss': 713.77734375, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9048312306404114, 'explained_variance_A': 0.90625, 'explained_variance_B': 0.90234375}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.55it/s]0.08it/s]  
+{'loss': 395.8719482421875, 'l2_loss': 193.8719482421875, 'l1_loss': 101.0, 'l0_loss': 700.5283203125, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.907206654548645, 'explained_variance_A': 0.90625, 'explained_variance_B': 0.90625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.69it/s]0.40it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.63it/s]0.39it/s]  
+{'loss': 412.07275390625, 'l2_loss': 197.07275390625, 'l1_loss': 107.5, 'l0_loss': 733.5966796875, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9070501327514648, 'explained_variance_A': 0.91015625, 'explained_variance_B': 0.90625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.70it/s]0.29it/s]  
+{'loss': 419.92071533203125, 'l2_loss': 204.92071533203125, 'l1_loss': 107.5, 'l0_loss': 743.8349609375, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9011484384536743, 'explained_variance_A': 0.90234375, 'explained_variance_B': 0.90234375}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.62it/s]0.35it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.66it/s]0.39it/s]  
+{'loss': 388.3659973144531, 'l2_loss': 190.36599731445312, 'l1_loss': 99.0, 'l0_loss': 692.087890625, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9078744649887085, 'explained_variance_A': 0.91015625, 'explained_variance_B': 0.90625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.64it/s]0.36it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.59it/s]0.31it/s]  
+{'loss': 395.87347412109375, 'l2_loss': 192.87347412109375, 'l1_loss': 101.5, 'l0_loss': 706.2509765625, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9058006405830383, 'explained_variance_A': 0.90625, 'explained_variance_B': 0.90625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.71it/s]0.37it/s]  
+{'loss': 379.2190246582031, 'l2_loss': 184.21902465820312, 'l1_loss': 97.5, 'l0_loss': 678.857421875, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9127388000488281, 'explained_variance_A': 0.9140625, 'explained_variance_B': 0.91015625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.74it/s]0.40it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.68it/s]0.39it/s]  
+{'loss': 405.09771728515625, 'l2_loss': 196.09771728515625, 'l1_loss': 104.5, 'l0_loss': 725.6982421875, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.904761552810669, 'explained_variance_A': 0.90625, 'explained_variance_B': 0.90234375}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.60it/s]0.33it/s]  
+{'loss': 376.245849609375, 'l2_loss': 181.24586486816406, 'l1_loss': 97.5, 'l0_loss': 673.6279296875, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9152919054031372, 'explained_variance_A': 0.91796875, 'explained_variance_B': 0.9140625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.75it/s]0.36it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.63it/s]0.36it/s]  
+{'loss': 392.23236083984375, 'l2_loss': 190.23236083984375, 'l1_loss': 101.0, 'l0_loss': 695.828125, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9102922677993774, 'explained_variance_A': 0.91015625, 'explained_variance_B': 0.91015625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.69it/s]0.32it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.68it/s]9.65it/s]  
+{'loss': 402.79278564453125, 'l2_loss': 194.7928009033203, 'l1_loss': 104.0, 'l0_loss': 720.076171875, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9069956541061401, 'explained_variance_A': 0.91015625, 'explained_variance_B': 0.90625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.71it/s]0.35it/s]  
+{'loss': 407.5223083496094, 'l2_loss': 198.52230834960938, 'l1_loss': 104.5, 'l0_loss': 720.1181640625, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9049997329711914, 'explained_variance_A': 0.90625, 'explained_variance_B': 0.90234375}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.69it/s]0.35it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.49it/s]0.40it/s]  
+{'loss': 385.71551513671875, 'l2_loss': 186.7154998779297, 'l1_loss': 99.5, 'l0_loss': 685.19921875, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9113477468490601, 'explained_variance_A': 0.9140625, 'explained_variance_B': 0.91015625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.64it/s]0.24it/s]  
+{'loss': 412.9026184082031, 'l2_loss': 201.90261840820312, 'l1_loss': 105.5, 'l0_loss': 737.0283203125, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9024348855018616, 'explained_variance_A': 0.90234375, 'explained_variance_B': 0.90234375}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.62it/s]0.07it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.63it/s]0.30it/s]  
+{'loss': 388.0564880371094, 'l2_loss': 189.05648803710938, 'l1_loss': 99.5, 'l0_loss': 689.02734375, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9077781438827515, 'explained_variance_A': 0.91015625, 'explained_variance_B': 0.90625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.56it/s]0.37it/s]  
+{'loss': 407.83477783203125, 'l2_loss': 198.83477783203125, 'l1_loss': 104.5, 'l0_loss': 719.2216796875, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9059940576553345, 'explained_variance_A': 0.90625, 'explained_variance_B': 0.90625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.58it/s]0.36it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.68it/s]9.97it/s]  
+{'loss': 420.40972900390625, 'l2_loss': 205.4097442626953, 'l1_loss': 107.5, 'l0_loss': 750.2900390625, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9000314474105835, 'explained_variance_A': 0.90234375, 'explained_variance_B': 0.8984375}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.70it/s]0.41it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.69it/s]0.36it/s]  
+{'loss': 386.5308532714844, 'l2_loss': 188.53085327148438, 'l1_loss': 99.0, 'l0_loss': 685.9072265625, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9090992212295532, 'explained_variance_A': 0.91015625, 'explained_variance_B': 0.90625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.67it/s]0.33it/s]  
+{'loss': 405.15765380859375, 'l2_loss': 198.1576385498047, 'l1_loss': 103.5, 'l0_loss': 719.3056640625, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9045311212539673, 'explained_variance_A': 0.90625, 'explained_variance_B': 0.90234375}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.72it/s]8.76it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.72it/s]0.29it/s]  
+{'loss': 405.8748779296875, 'l2_loss': 197.8748779296875, 'l1_loss': 104.0, 'l0_loss': 722.6220703125, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.904396653175354, 'explained_variance_A': 0.90625, 'explained_variance_B': 0.90234375}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.69it/s]0.44it/s]  
+{'loss': 398.7736511230469, 'l2_loss': 194.77365112304688, 'l1_loss': 102.0, 'l0_loss': 713.5, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.905346691608429, 'explained_variance_A': 0.90625, 'explained_variance_B': 0.90234375}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.72it/s]0.39it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.71it/s]0.40it/s]  
+{'loss': 407.76995849609375, 'l2_loss': 198.7699432373047, 'l1_loss': 104.5, 'l0_loss': 728.5966796875, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9042060375213623, 'explained_variance_A': 0.90625, 'explained_variance_B': 0.90234375}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.59it/s]0.35it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.72it/s]0.33it/s]  
+{'loss': 377.19757080078125, 'l2_loss': 183.1975860595703, 'l1_loss': 97.0, 'l0_loss': 680.15625, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9095955491065979, 'explained_variance_A': 0.91015625, 'explained_variance_B': 0.91015625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.70it/s]0.36it/s]  
+{'loss': 385.1082763671875, 'l2_loss': 186.1082763671875, 'l1_loss': 99.5, 'l0_loss': 688.341796875, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9124327898025513, 'explained_variance_A': 0.9140625, 'explained_variance_B': 0.91015625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.72it/s]0.38it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.73it/s]0.34it/s]  
+{'loss': 406.0072021484375, 'l2_loss': 197.00721740722656, 'l1_loss': 104.5, 'l0_loss': 721.69140625, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9047278165817261, 'explained_variance_A': 0.90625, 'explained_variance_B': 0.90234375}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.56it/s]0.33it/s]  
+{'loss': 410.8943176269531, 'l2_loss': 200.89431762695312, 'l1_loss': 105.0, 'l0_loss': 731.109375, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.902825117111206, 'explained_variance_A': 0.90234375, 'explained_variance_B': 0.90234375}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.50it/s]8.40it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.43it/s]0.22it/s]  
+{'loss': 416.94232177734375, 'l2_loss': 204.94232177734375, 'l1_loss': 106.0, 'l0_loss': 736.830078125, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9022671580314636, 'explained_variance_A': 0.90234375, 'explained_variance_B': 0.90234375}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.70it/s]0.25it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.72it/s]0.27it/s]  
+{'loss': 414.47509765625, 'l2_loss': 201.47508239746094, 'l1_loss': 106.5, 'l0_loss': 735.693359375, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9035755395889282, 'explained_variance_A': 0.90625, 'explained_variance_B': 0.90234375}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.64it/s]0.37it/s]  
+{'loss': 406.212646484375, 'l2_loss': 197.21263122558594, 'l1_loss': 104.5, 'l0_loss': 728.59765625, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9042173624038696, 'explained_variance_A': 0.90625, 'explained_variance_B': 0.90234375}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.55it/s]0.32it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.67it/s]0.32it/s]  
+{'loss': 405.28826904296875, 'l2_loss': 198.2882537841797, 'l1_loss': 103.5, 'l0_loss': 719.0595703125, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9064194560050964, 'explained_variance_A': 0.90625, 'explained_variance_B': 0.90625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.66it/s]0.40it/s]  
+{'loss': 395.4466552734375, 'l2_loss': 193.44667053222656, 'l1_loss': 101.0, 'l0_loss': 701.5498046875, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.907417893409729, 'explained_variance_A': 0.91015625, 'explained_variance_B': 0.90625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.63it/s]0.30it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.71it/s]0.35it/s]  
+{'loss': 407.2809143066406, 'l2_loss': 198.28091430664062, 'l1_loss': 104.5, 'l0_loss': 724.2685546875, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9047986268997192, 'explained_variance_A': 0.90625, 'explained_variance_B': 0.90234375}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.65it/s]0.36it/s]  
+{'loss': 382.4295654296875, 'l2_loss': 187.4295654296875, 'l1_loss': 97.5, 'l0_loss': 686.3203125, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9093316793441772, 'explained_variance_A': 0.91015625, 'explained_variance_B': 0.91015625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.70it/s]0.33it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.69it/s]0.22it/s]  
+{'loss': 400.2235107421875, 'l2_loss': 196.22352600097656, 'l1_loss': 102.0, 'l0_loss': 707.6005859375, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.905889630317688, 'explained_variance_A': 0.90625, 'explained_variance_B': 0.90625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.71it/s]0.42it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.69it/s]0.37it/s]  
+{'loss': 446.66314697265625, 'l2_loss': 217.6631622314453, 'l1_loss': 114.5, 'l0_loss': 793.46484375, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.8961257934570312, 'explained_variance_A': 0.8984375, 'explained_variance_B': 0.89453125}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.70it/s]0.32it/s]  
+{'loss': 404.7626647949219, 'l2_loss': 196.76266479492188, 'l1_loss': 104.0, 'l0_loss': 720.40234375, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9040426015853882, 'explained_variance_A': 0.90625, 'explained_variance_B': 0.90234375}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.69it/s]0.32it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.66it/s]0.32it/s]  
+{'loss': 410.9350280761719, 'l2_loss': 198.93502807617188, 'l1_loss': 106.0, 'l0_loss': 725.4345703125, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9067948460578918, 'explained_variance_A': 0.91015625, 'explained_variance_B': 0.90625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.72it/s]0.34it/s]  
+{'loss': 388.76885986328125, 'l2_loss': 189.76885986328125, 'l1_loss': 99.5, 'l0_loss': 688.5234375, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9089481234550476, 'explained_variance_A': 0.91015625, 'explained_variance_B': 0.91015625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.71it/s]0.35it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.69it/s]1.19it/s]  
+{'loss': 378.4365234375, 'l2_loss': 184.43653869628906, 'l1_loss': 97.0, 'l0_loss': 670.970703125, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9133715629577637, 'explained_variance_A': 0.9140625, 'explained_variance_B': 0.9140625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.74it/s]0.44it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.74it/s]0.46it/s]  
+{'loss': 411.77423095703125, 'l2_loss': 202.77423095703125, 'l1_loss': 104.5, 'l0_loss': 728.8759765625, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.901732325553894, 'explained_variance_A': 0.90234375, 'explained_variance_B': 0.90234375}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.50it/s]0.35it/s]  
+{'loss': 389.84796142578125, 'l2_loss': 190.8479461669922, 'l1_loss': 99.5, 'l0_loss': 696.0615234375, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.909453809261322, 'explained_variance_A': 0.91015625, 'explained_variance_B': 0.91015625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.72it/s]7.62it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.67it/s]0.28it/s]  
+{'loss': 387.9341735839844, 'l2_loss': 187.93417358398438, 'l1_loss': 100.0, 'l0_loss': 692.009765625, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9098992943763733, 'explained_variance_A': 0.91015625, 'explained_variance_B': 0.91015625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.68it/s]0.31it/s]  
+{'loss': 373.47479248046875, 'l2_loss': 182.47479248046875, 'l1_loss': 95.5, 'l0_loss': 659.1904296875, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9122507572174072, 'explained_variance_A': 0.9140625, 'explained_variance_B': 0.91015625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.62it/s]0.35it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.72it/s]0.39it/s]  
+{'loss': 410.38006591796875, 'l2_loss': 199.3800811767578, 'l1_loss': 105.5, 'l0_loss': 732.2841796875, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9034127593040466, 'explained_variance_A': 0.90625, 'explained_variance_B': 0.90234375}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.62it/s]0.28it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.72it/s]0.36it/s]  
+{'loss': 376.88543701171875, 'l2_loss': 183.88543701171875, 'l1_loss': 96.5, 'l0_loss': 665.904296875, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9136354923248291, 'explained_variance_A': 0.9140625, 'explained_variance_B': 0.9140625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.61it/s]0.31it/s]  
+{'loss': 411.90966796875, 'l2_loss': 199.90965270996094, 'l1_loss': 106.0, 'l0_loss': 727.9541015625, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9042743444442749, 'explained_variance_A': 0.90625, 'explained_variance_B': 0.90234375}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.70it/s]0.35it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.72it/s]0.37it/s]  
+{'loss': 374.83978271484375, 'l2_loss': 181.83978271484375, 'l1_loss': 96.5, 'l0_loss': 672.44140625, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9124823808670044, 'explained_variance_A': 0.9140625, 'explained_variance_B': 0.91015625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.68it/s]0.39it/s]  
+{'loss': 380.3465576171875, 'l2_loss': 185.3465576171875, 'l1_loss': 97.5, 'l0_loss': 672.8564453125, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9119030237197876, 'explained_variance_A': 0.9140625, 'explained_variance_B': 0.91015625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.72it/s]0.45it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.70it/s]0.37it/s]  
+{'loss': 407.3770751953125, 'l2_loss': 197.3770751953125, 'l1_loss': 105.0, 'l0_loss': 730.580078125, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9058511853218079, 'explained_variance_A': 0.90625, 'explained_variance_B': 0.90625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.65it/s]0.31it/s]  
+{'loss': 411.03118896484375, 'l2_loss': 199.0311737060547, 'l1_loss': 106.0, 'l0_loss': 734.0205078125, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9062477350234985, 'explained_variance_A': 0.90625, 'explained_variance_B': 0.90625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.59it/s]0.38it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.77it/s]0.32it/s]  
+{'loss': 373.4486083984375, 'l2_loss': 182.44862365722656, 'l1_loss': 95.5, 'l0_loss': 659.34375, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9126059412956238, 'explained_variance_A': 0.9140625, 'explained_variance_B': 0.91015625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.58it/s]9.36it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.74it/s]0.34it/s]  
+{'loss': 379.14923095703125, 'l2_loss': 185.1492462158203, 'l1_loss': 97.0, 'l0_loss': 679.4541015625, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9106274247169495, 'explained_variance_A': 0.91015625, 'explained_variance_B': 0.91015625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.65it/s]0.42it/s]  
+{'loss': 394.4400634765625, 'l2_loss': 192.4400634765625, 'l1_loss': 101.0, 'l0_loss': 696.6806640625, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.908563494682312, 'explained_variance_A': 0.91015625, 'explained_variance_B': 0.90625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.66it/s]0.07it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.71it/s]0.37it/s]  
+{'loss': 392.8168640136719, 'l2_loss': 190.81686401367188, 'l1_loss': 101.0, 'l0_loss': 699.16015625, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.910284161567688, 'explained_variance_A': 0.91015625, 'explained_variance_B': 0.91015625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.50it/s]0.24it/s]  
+{'loss': 384.39215087890625, 'l2_loss': 188.3921356201172, 'l1_loss': 98.0, 'l0_loss': 678.39453125, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.90961754322052, 'explained_variance_A': 0.91015625, 'explained_variance_B': 0.91015625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.64it/s]0.34it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.71it/s]0.35it/s]  
+{'loss': 388.6388244628906, 'l2_loss': 189.63882446289062, 'l1_loss': 99.5, 'l0_loss': 686.3759765625, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9084852337837219, 'explained_variance_A': 0.91015625, 'explained_variance_B': 0.90625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.71it/s]0.39it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.67it/s]0.38it/s]  
+{'loss': 395.4212341308594, 'l2_loss': 192.42123413085938, 'l1_loss': 101.5, 'l0_loss': 702.083984375, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9074137806892395, 'explained_variance_A': 0.91015625, 'explained_variance_B': 0.90625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.74it/s]0.37it/s]  
+{'loss': 403.56878662109375, 'l2_loss': 197.5687713623047, 'l1_loss': 103.0, 'l0_loss': 715.619140625, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.905215859413147, 'explained_variance_A': 0.90625, 'explained_variance_B': 0.90234375}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.65it/s]0.40it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.69it/s]0.44it/s]  
+{'loss': 401.99407958984375, 'l2_loss': 193.9940643310547, 'l1_loss': 104.0, 'l0_loss': 718.7978515625, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9076687693595886, 'explained_variance_A': 0.91015625, 'explained_variance_B': 0.90625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.72it/s]0.32it/s]  
+{'loss': 398.429443359375, 'l2_loss': 194.42942810058594, 'l1_loss': 102.0, 'l0_loss': 709.037109375, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9050441980361938, 'explained_variance_A': 0.90625, 'explained_variance_B': 0.90234375}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.68it/s]0.44it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.73it/s]0.38it/s]  
+{'loss': 390.3033142089844, 'l2_loss': 191.30331420898438, 'l1_loss': 99.5, 'l0_loss': 689.10546875, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.911616325378418, 'explained_variance_A': 0.9140625, 'explained_variance_B': 0.91015625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.66it/s]0.41it/s]  
+{'loss': 375.49652099609375, 'l2_loss': 184.4965362548828, 'l1_loss': 95.5, 'l0_loss': 668.9619140625, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9122875928878784, 'explained_variance_A': 0.9140625, 'explained_variance_B': 0.91015625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.71it/s]0.44it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.74it/s]0.38it/s]  
+{'loss': 375.74212646484375, 'l2_loss': 183.74212646484375, 'l1_loss': 96.0, 'l0_loss': 663.22265625, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9128798246383667, 'explained_variance_A': 0.9140625, 'explained_variance_B': 0.91015625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.70it/s]0.41it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.63it/s]0.31it/s]  
+{'loss': 398.50018310546875, 'l2_loss': 195.50018310546875, 'l1_loss': 101.5, 'l0_loss': 704.2607421875, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9071506857872009, 'explained_variance_A': 0.91015625, 'explained_variance_B': 0.90625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.71it/s]0.38it/s]  
+{'loss': 397.3680419921875, 'l2_loss': 194.3680419921875, 'l1_loss': 101.5, 'l0_loss': 708.970703125, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9053142070770264, 'explained_variance_A': 0.90625, 'explained_variance_B': 0.90625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.70it/s]0.42it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.72it/s]0.38it/s]  
+{'loss': 393.06231689453125, 'l2_loss': 192.0623321533203, 'l1_loss': 100.5, 'l0_loss': 701.4677734375, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9075524210929871, 'explained_variance_A': 0.90625, 'explained_variance_B': 0.90625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.68it/s]0.28it/s]  
+{'loss': 408.5137634277344, 'l2_loss': 199.51376342773438, 'l1_loss': 104.5, 'l0_loss': 725.142578125, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9022801518440247, 'explained_variance_A': 0.90234375, 'explained_variance_B': 0.90234375}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.68it/s]0.44it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.74it/s]0.44it/s]  
+{'loss': 416.9442138671875, 'l2_loss': 203.94422912597656, 'l1_loss': 106.5, 'l0_loss': 738.0419921875, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9021361470222473, 'explained_variance_A': 0.90234375, 'explained_variance_B': 0.90234375}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.53it/s]0.41it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.69it/s]0.38it/s]  
+{'loss': 390.9317932128906, 'l2_loss': 189.93179321289062, 'l1_loss': 100.5, 'l0_loss': 702.29296875, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9076814651489258, 'explained_variance_A': 0.91015625, 'explained_variance_B': 0.90625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.75it/s]0.35it/s]  
+{'loss': 388.9027404785156, 'l2_loss': 190.90274047851562, 'l1_loss': 99.0, 'l0_loss': 682.43359375, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9094338417053223, 'explained_variance_A': 0.91015625, 'explained_variance_B': 0.91015625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.70it/s]0.44it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.65it/s]0.42it/s]  
+{'loss': 383.6934814453125, 'l2_loss': 187.69346618652344, 'l1_loss': 98.0, 'l0_loss': 683.3515625, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9087358713150024, 'explained_variance_A': 0.91015625, 'explained_variance_B': 0.90625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.73it/s]9.92it/s]  
+{'loss': 392.3830261230469, 'l2_loss': 191.38302612304688, 'l1_loss': 100.5, 'l0_loss': 692.9736328125, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.908969521522522, 'explained_variance_A': 0.91015625, 'explained_variance_B': 0.90625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.79it/s]0.41it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.76it/s]0.38it/s]  
+{'loss': 393.21868896484375, 'l2_loss': 192.2187042236328, 'l1_loss': 100.5, 'l0_loss': 699.5869140625, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9076768159866333, 'explained_variance_A': 0.91015625, 'explained_variance_B': 0.90625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.73it/s]0.46it/s]  
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.71it/s]0.42it/s]  
+{'loss': 395.39874267578125, 'l2_loss': 192.39874267578125, 'l1_loss': 101.5, 'l0_loss': 707.384765625, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.9071227312088013, 'explained_variance_A': 0.91015625, 'explained_variance_B': 0.90625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.68it/s]0.39it/s]  
+{'loss': 404.4539794921875, 'l2_loss': 198.45396423339844, 'l1_loss': 103.0, 'l0_loss': 712.97265625, 'l1_coeff': 2, 'lr': 5e-05, 'explained_variance': 0.904891848564148, 'explained_variance_A': 0.90625, 'explained_variance_B': 0.90625}
+Refreshing the buffer!
+100%|██████████| 4/4 [00:00<00:00, 10.65it/s]0.37it/s]  
+Refreshing the buffer!
+ 15%|█▌        | 29999/195312 [10:55<1:00:10, 45.78it/s]
+Traceback (most recent call last):
+  File "/weka/scratch/weka/tegmark/dbaek/deepseek-diff/crosscoder_diff/trainer.py", line 80, in train
+    self.save()
+  File "/weka/scratch/weka/tegmark/dbaek/deepseek-diff/crosscoder_diff/trainer.py", line 70, in save
+    self.crosscoder.save()
+  File "/weka/scratch/weka/tegmark/dbaek/deepseek-diff/crosscoder_diff/crosscoder.py", line 144, in save
+    self.create_save_dir()
+  File "/weka/scratch/weka/tegmark/dbaek/deepseek-diff/crosscoder_diff/crosscoder.py", line 132, in create_save_dir
+    for file in list(SAVE_DIR.iterdir())
+                ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/om/user/dbaek/.conda/envs/crosscoder/lib/python3.12/pathlib.py", line 1056, in iterdir
+    for name in os.listdir(self):
+                ^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'checkpoints'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/weka/scratch/weka/tegmark/dbaek/deepseek-diff/src/../crosscoder_diff/train.py", line 97, in <module>
+    trainer.train()
+  File "/weka/scratch/weka/tegmark/dbaek/deepseek-diff/crosscoder_diff/trainer.py", line 82, in train
+    self.save()
+  File "/weka/scratch/weka/tegmark/dbaek/deepseek-diff/crosscoder_diff/trainer.py", line 70, in save
+    self.crosscoder.save()
+  File "/weka/scratch/weka/tegmark/dbaek/deepseek-diff/crosscoder_diff/crosscoder.py", line 144, in save
+    self.create_save_dir()
+  File "/weka/scratch/weka/tegmark/dbaek/deepseek-diff/crosscoder_diff/crosscoder.py", line 132, in create_save_dir
+    for file in list(SAVE_DIR.iterdir())
+                ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/om/user/dbaek/.conda/envs/crosscoder/lib/python3.12/pathlib.py", line 1056, in iterdir
+    for name in os.listdir(self):
+                ^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'checkpoints'
