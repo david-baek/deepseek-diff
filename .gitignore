@@ -1,8 +1,9 @@
-wandb/*
+*/wandb/*
 __pycache__/*
 checkpoints/*
 data/*
 */results/*
+results/*
 .env
 abstractive/*
 
