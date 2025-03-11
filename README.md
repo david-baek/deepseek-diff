@@ -4,4 +4,6 @@ In this paper, we investigate how model distillation impacts the development of 
 
 Download the trained crosscoders [here](https://www.dropbox.com/scl/fo/n5ekjy5c6e7gmm2djkqxn/AFyp_3ncFup_L7MINkRMCKw?rlkey=0vhcr8r4te9k2zjvjhiiafqyh&e=1&st=l7r4cwdi&dl=0).
 
+Paper: [arXiv](https://arxiv.org/abs/2503.03730)
+
 We have adapted the [open-source implementation](https://github.com/ckkissane/crosscoder-model-diff-replication) of crosscoder for our experiments.
